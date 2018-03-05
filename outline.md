@@ -67,3 +67,4 @@ Artificial intelligence is a broad and challenging subject and one that I hope s
 *   [Python Koans](https://github.com/gregmalcolm/python_koans) - A Github repository with interactive Python tutorial.
 *   [Pytudes](https://github.com/norvig/pytudes) - Etudes are challenging practice pieces for musicians, pytudes are that for coders.
 *   [Wumpus World Online](http://wumpus-world.com/) - Play and get familiar with Wumpus World
+* [Bloom's Taxonomy](http://www.au.af.mil/au/awc/awcgate/edref/bloom.htm)
