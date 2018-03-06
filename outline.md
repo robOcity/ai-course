@@ -56,7 +56,7 @@ Artificial intelligence is a broad and challenging subject and one that I hope s
         1.  Read Chapter 14 - Probabilistic Reasoning
 
 
-## Resources
+## Content Resources
 *   [Website for Artificial Intelligence: A Modern Approach (AIMA)](http://aima.cs.berkeley.edu/) - Supporting materials for students and instructors.
 *   [AIMA Instructor's Resources](http://aima.cs.berkeley.edu/instructors.html) - A rich set of resources for instructors.
 *   [AIMA algorithm implementations in Python](https://github.com/aimacode/aima-python) - Github repository of Python code and Jupyter notebooks implementing algorithms from the text.
@@ -67,4 +67,6 @@ Artificial intelligence is a broad and challenging subject and one that I hope s
 *   [Python Koans](https://github.com/gregmalcolm/python_koans) - A Github repository with interactive Python tutorial.
 *   [Pytudes](https://github.com/norvig/pytudes) - Etudes are challenging practice pieces for musicians, pytudes are that for coders.
 *   [Wumpus World Online](http://wumpus-world.com/) - Play and get familiar with Wumpus World
-* [Bloom's Taxonomy](http://www.au.af.mil/au/awc/awcgate/edref/bloom.htm)
+
+## Course Preparation
+*   [Bloom's Taxonomy](http://www.au.af.mil/au/awc/awcgate/edref/bloom.htm) - Learning Objective Verbs at Each Bloom Taxonomy Level

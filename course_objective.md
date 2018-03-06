@@ -1,9 +1,10 @@
 # Course Objectives
 
-1.  Explain what makes a systme artificially intelligent system (Comprehension)
-2.  Compare and contrast the applicability of differenct search algorithms to a problem (Evaluation)
-3.  Model the state of an environment using logic (Anaylsis)
-4.  Apply machine learning algorithms to improve the performance of AI systems (Application)
-5.  Quantify uncertainty using statistical methods
-6.  Appraise the ethical implications of a proposed AI system (Evaluation)
-7.
+1.  Discuss artificially intelligent systems using intelligent agents as context (Comprehension)
+2.  Apply search algorithms to solve problems (Apply)
+3.  Construct knowledge representations using logic (Synthesis)
+4.  Use knowledge to answer questions and draw new conclusions (Application)
+5.  Employ machine learning algorithms in artificially intelligent systems (Application)
+6.  Solve problems with uncertainty information using Bayesian methods (Application)
+7.  Assess how well artificially intelligent systems perform (Evaluation)
+8.  Examine the ethical implications of a artificially intelligent systems (Analysis)
