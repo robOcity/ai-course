@@ -14,18 +14,19 @@ Artificial intelligence is a broad and challenging subject and one that I hope s
 *   Avoiding topics that are covered in other courses (machine learning, natural language processing)
 
 
-1.  **Introduction**
+1.  **Introduction, History and Ethics**
     1.  Motivation:  Introducing the field of artificial intelligence, its history and foundations.  Our text focuses on rational agents that sense and act in their environment to achieve goals, and shows how artificially intelligent systems are constructed.
     2.  Preparation
         1.  Read Chapter 1 - Introduction
         2.  Read Chapter 2 - Intelligent Agents
 
-2.  **Search**
+2.  **Logical Agents Searching for Solutions**
     1.  Motivation:  Introducing search algorithms and how to improve their efficiency by minimizing a cost function.
     2.  Preparation
         1.  Read Chapter 3 - Problem Solving by Searching
+    2. Project: Surviving in Wumpus World
 
-3.  **Adversarial Games**
+3.  **Playing Adversarial Games**
     1.  Motivation:  Applying search algorithms to well known games such as chess, backgammon and cards.
     2.  Preparation
         1.  Read Chapter 5 - Adversarial Search
@@ -35,7 +36,7 @@ Artificial intelligence is a broad and challenging subject and one that I hope s
     2.  Preparation
         1.  Read Chapter 6 - Constraint Satisfaction Problems
 
-5.  **Prepositional Logic in Wumpus World**
+5.  **Logical Agents in Wumpus World**
     1.  Motivation: Introducing predicate logic and applying it to Wumpus World - a simple grid-based hunting game.
     2.  Preparation
         1.  Read Chapter 7 - Logical Agents
@@ -49,11 +50,12 @@ Artificial intelligence is a broad and challenging subject and one that I hope s
     1.  Motivation: Employing decision theory to eliminate unlikely outcomes from consideration.
     2.  Reading
         1.  Read Chapter 13 - Uncertainty
+    3.  Project: Wumpus world revisited
 
-8.  **Probabilistic Reasoning**
-    1.  Motivation: Using Bayesian Networks to capture uncertain knowledge and how they allow probabilistic inference to be practically applied.
+8.  **Applying Machine Learning**
+    1.  Motivation: Apply machine learning to improve the performance of artificially intelligent systems.
     2.  Preparation
-        1.  Read Chapter 14 - Probabilistic Reasoning
+        1.  Read Chapter 18 - Learning from Examples
 
 
 ## Content Resources
