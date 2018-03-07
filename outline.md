@@ -2,7 +2,7 @@
 
 By: Rob Osterburg
 
-Date: 02-11-2018
+Date: 3-7-2018
 
 Text: Stuart Russel and Peter Norvig.  _Artificial Intelligence: A Modern Approach (3rd ed.)_.
       Prentice-Hall.  2010.
@@ -11,7 +11,7 @@ Text: Stuart Russel and Peter Norvig.  _Artificial Intelligence: A Modern Approa
 
 Artificial intelligence is a broad and challenging subject and one that I hope students will enjoy.  Our text has a wealth of material, much more than we can cover in 8 weeks.  My goals in selecting topics are:
 *   Covering essential topics
-*   Avoiding topics that are covered in other courses (machine learning, natural language processing)
+*   Tie in machine learning to AI
 
 
 1.  **Introduction, History and Ethics**
@@ -24,7 +24,7 @@ Artificial intelligence is a broad and challenging subject and one that I hope s
     1.  Motivation:  Introducing search algorithms and how to improve their efficiency by minimizing a cost function.
     2.  Preparation
         1.  Read Chapter 3 - Problem Solving by Searching
-    2. Project: Surviving in Wumpus World
+    2.  Project: Surviving in Wumpus World
 
 3.  **Playing Adversarial Games**
     1.  Motivation:  Applying search algorithms to well known games such as chess, backgammon and cards.
