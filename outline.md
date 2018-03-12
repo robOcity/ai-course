@@ -14,11 +14,15 @@ Artificial intelligence is a broad and challenging subject and one that I hope s
 *   Tie in machine learning to AI
 
 
-1.  **Introduction, History and Ethics**
-    1.  Motivation:  Introducing the field of artificial intelligence, its history and foundations.  Our text focuses on rational agents that sense and act in their environment to achieve goals, and shows how artificially intelligent systems are constructed.
+1.  **Introducing Artificial Intelligence**
+    1.  Motivation:  Introducing the field of artificial intelligence (AI), its history and foundations.  Our text focuses on rational agents that sense and act in their environment to achieve goals, and shows how artificially intelligent systems are constructed.
     2.  Preparation
         1.  Read Chapter 1 - Introduction
-        2.  Read Chapter 2 - Intelligent Agents
+        2.  Read Chapter 2 - Intelligent Agentsa
+    3.  Material
+        1.  Introduction to AI, short history, ethical concerns
+        2.  Introduction to Python, key concepts, data structures and classes
+    4.  Assignment 1 - Select Python programming exercises from [Python Koans](https://github.com/gregmalcolm/python_koans)
 
 2.  **Logical Agents Searching for Solutions**
     1.  Motivation:  Introducing search algorithms and how to improve their efficiency by minimizing a cost function.
@@ -69,6 +73,7 @@ Artificial intelligence is a broad and challenging subject and one that I hope s
 *   [Python Koans](https://github.com/gregmalcolm/python_koans) - A Github repository with interactive Python tutorial.
 *   [Pytudes](https://github.com/norvig/pytudes) - Etudes are challenging practice pieces for musicians, pytudes are that for coders.
 *   [Wumpus World Online](http://wumpus-world.com/) - Play and get familiar with Wumpus World
+*   [Open Source Data Science](https://github.com/datasciencemasters/go) - Curated list of online learning resources for data scientists
 
 ## Course Preparation
 *   [Bloom's Taxonomy](http://www.au.af.mil/au/awc/awcgate/edref/bloom.htm) - Learning Objective Verbs at Each Bloom Taxonomy Level

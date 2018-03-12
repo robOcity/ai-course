@@ -102,3 +102,7 @@ ENV/
 
 # pdf files
 *.pdf
+
+notes/
+
+.DS_Store

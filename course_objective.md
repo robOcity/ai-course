@@ -5,6 +5,6 @@
 3.  Construct knowledge representations using logic (Synthesis)
 4.  Use knowledge to answer questions and draw new conclusions (Application)
 5.  Employ machine learning algorithms in artificially intelligent systems (Application)
-6.  Solve problems with uncertainty information using Bayesian methods (Application)
-7.  Assess how well artificially intelligent systems perform (Evaluation)
+6.  Operate probabilistically to make better choices than logic alone allows (Application)
+7.  Assess different performance measures effect on agent behavior (Evaluation)
 8.  Examine the ethical implications of a artificially intelligent systems (Analysis)
