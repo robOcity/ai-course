@@ -22,8 +22,8 @@ Artificial intelligence is a broad and challenging subject and one that I hope s
             4. Explain how a rational agent achieves a goal in an environment.
             5. Contrast simple reflex agents, model-based reflex agents, goal-based agents and utility-based agents.
     2.  Preparation
-        1.  Read Chapter 1 - Introduction (Sections 1.1, 1.2 (skim), 1.3 (skim))
-        2.  Read Chapter 2 - Intelligent Agents
+        1.  Read Chapter 1 - Introduction (sections 1.1, 1.2 (skim), 1.3 (skim))
+        2.  Read Chapter 2 - Intelligent Agents (all sections)
     3.  From the experts
         1.  The British mathematician Alan Turing work was foundational in the field of artificial intelligence and theoretical computer science.  His original papers are available online and are quite readable.
             1.  Founding the field of artificial intelligence in 1950 with the publication of his "Computing Machinery and Intelligence" paper ([original](http://www.turingarchive.org/browse.php/B/9) and [pdf](https://www.csee.umbc.edu/courses/471/papers/turing.pdf)).  It is this paper that he proposes the a simple game where one contestant tries to determine something about another person.  Communication is limited to text.  Turing calls this the "imitation game" and asks what will happen when a machine is questioned.  Now known as the Turing test and conditions artificial intelligence on acting humanly.
@@ -82,6 +82,6 @@ Artificial intelligence is a broad and challenging subject and one that I hope s
 *   [Pytudes](https://github.com/norvig/pytudes) - Etudes are challenging practice pieces for musicians, pytudes are that for coders.
 *   [Wumpus World Online](http://wumpus-world.com/) - Play and get familiar with Wumpus World
 *   [Open Source Data Science](https://github.com/datasciencemasters/go) - Curated list of online learning resources for data scientists
-
+*   [Repl.it] - Online IDE supporting my different languages with support of classrooms, unit tests, sharing solution once all students test pass, and a classroom progress tracking page.  Teaching features are paid, others are free.
 ## Course Preparation
 *   [Bloom's Taxonomy](http://www.au.af.mil/au/awc/awcgate/edref/bloom.htm) - Learning Objective Verbs at Each Bloom Taxonomy Level
