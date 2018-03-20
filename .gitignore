@@ -100,9 +100,6 @@ ENV/
 # mypy
 .mypy_cache/
 
-# pdf files
-*.pdf
-
-notes/
+export/*
 
 .DS_Store
