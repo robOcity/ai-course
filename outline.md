@@ -16,7 +16,7 @@ Artificial intelligence is a broad and challenging subject and one that I hope s
 
 1.  **Introducing Artificial Intelligence**
     1.  Motivation:  Introducing the field of artificial intelligence (AI), its history and foundations.  Our text focuses on rational agents that sense and act in their environment to achieve goals, and shows how artificially intelligent systems are constructed.
-    1. Learning objectives
+    1.  Learning objectives
             1. Describe how thinking, acting and behaving provide a framework for understanding differing approaches to AI.
             2. Discuss the elements of a task environment and how they relate to the state space that the agent must navigate.
             4. Explain how a rational agent achieves a goal in an environment.
@@ -82,6 +82,8 @@ Artificial intelligence is a broad and challenging subject and one that I hope s
 *   [Pytudes](https://github.com/norvig/pytudes) - Etudes are challenging practice pieces for musicians, pytudes are that for coders.
 *   [Wumpus World Online](http://wumpus-world.com/) - Play and get familiar with Wumpus World
 *   [Open Source Data Science](https://github.com/datasciencemasters/go) - Curated list of online learning resources for data scientists
-*   [Repl.it] - Online IDE supporting my different languages with support of classrooms, unit tests, sharing solution once all students test pass, and a classroom progress tracking page.  Teaching features are paid, others are free.
+*   [Repl.it IDE](https://repl.it/) - Online IDE supporting my different languages with support of classrooms, unit tests, sharing solution once all students test pass, and a classroom progress tracking page.  Teaching features are paid, others are free.
+
+
 ## Course Preparation
 *   [Bloom's Taxonomy](http://www.au.af.mil/au/awc/awcgate/edref/bloom.htm) - Learning Objective Verbs at Each Bloom Taxonomy Level
