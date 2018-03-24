@@ -1,4 +1,4 @@
-# Week 1 - Introducing Artificial Intelligence
+# Week ? - TODO
 
 1. Motivation: TODO
 
