@@ -50,6 +50,7 @@
 *   [Wumpus World Online](http://wumpus-world.com/) - Play and get familiar with Wumpus World
 *   [Open Source Data Science](https://github.com/datasciencemasters/go) - Curated list of online learning resources for data scientists
 *   [Repl.it IDE](https://repl.it/) - Online IDE supporting my different languages with support of classrooms, unit tests, sharing solution once all students test pass, and a classroom progress tracking page.  Teaching features are paid, others are free.
+*   [Python for Everybody](https://www.py4e.com/) - A comprehensive set of Python programming lessons as text and YouTube videos with 
 
 
 ## Course Preparation
