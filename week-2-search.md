@@ -1,6 +1,6 @@
 # Week 2 - Searching for Solutions
 
-1. Motivation: TODO
+1. Motivation: Introducing search algorithms and how to improve their efficiency by minimizing a cost function.  Solving a problem involves moving from an initial state to the goal.  The domain of a problem, say the board game checkers, controls the number of possible states, and the actions that can be taken.  Imagine playing checkers without knowing any of the rules -- this is uninformed search -- and yes, winnig would take a long time.  Informed search -- where we know the rule and can evaluate the cost of each -- is a much more efficient way of finding the goal.  This week we will examine both types of algorithms, understand thier costs, and learn how to measure their performance.  
 
 1. Learning objectives
 

@@ -1,10 +1,3 @@
-
-2.  **Logical Agents Searching for Solutions**
-    1.  Motivation:  Introducing search algorithms and how to improve their efficiency by minimizing a cost function.
-    2.  Preparation
-        1.  Read Chapter 3 - Problem Solving by Searching
-    2.  Project: Surviving in Wumpus World
-
 3.  **Playing Adversarial Games**
     1.  Motivation:  Applying search algorithms to well known games such as chess, backgammon and cards.
     2.  Preparation
