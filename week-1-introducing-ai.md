@@ -50,4 +50,30 @@
     1. On a warm Sunday night in Tempe Arizona, Elaine Herzberg was walking her bike across a street. Maybe she thought that the car approaching car would slow, or change lanes. The driver behind the wheel was alert but was simply there to keep an eye on the artificial intelligence (AI) that in control of the car. An array of sensors fed streams of data to the AI as it drove cautiously through the night at 5 MPH below the posted speed limit. Tragically, none of the participants involved in this accident were able to prevent it.  Moments later -- having been hit by a vehicle moving at 40 MPH -- Elaine Herzberg lay dying on the side of the road.  Please read [How a Self-Driving Uber
 Killed a Pedestrian in Arizona](https://www.nytimes.com/interactive/2018/03/20/us/self-driving-uber-pedestrian-killed.html).  Then respond to the following prompt by midnight Wednesday and by midnight Sunday please share your respectful thoughts on three other student's responses.  _Which of the participants is responsible for this tragic accident?  How can an AI be held accountable?_
 
-    1. Programming Assignment.  Download the Jupyter notebook from the Programming Assignment disucussion post and follow the directions.  Please submit your work by midnight Sunday.   
+1. Programming Assignment. 
+
+    1. We will be using Python 3 for all of our assignments in this class.  Prepare your development environment by installing Python and and a code editor.  
+
+        1. Install the latest version of Anaconda Python 3 for your operating system from [Anaconda](https://www.anaconda.com/) > Products > Download.  If you are familiar with Python and are comfortable using pipenv and pip, then you can use your existing Python installation or get the latest from [Official Python Site](https://www.python.org/) > Downloads.  
+
+        1. Install a coding editor such as [Visual Studio Code](https://code.visualstudio.com/) or [Atom](https://atom.io/).  Both are free and are well docuemented.  
+    
+    1. Clone or download the [Python Koans](https://github.com/gregmalcolm/python_koans) from [GitHub](https://github.com/).
+    
+        1. [Installing the Python Koans - Get started using PythonKoans on a Mac: part 1](https://youtu.be/e2WXgXEjbHY)
+
+        1. [How to completing the Koans - Get started using PythonKoans on a Mac: part 2](https://youtu.be/2r3MLH15kQc)
+
+    1. In the **python3 folder**, complete the koans in:
+
+        1. about_asserts.py
+         
+        1. about_strings.py
+
+        1. about_lists.py
+
+        1. about_control_statements.py
+
+        1. about_statements.py 
+    
+    1. Use the run script to show which of the koans you have working.  Take a screen shot of your the results and submit it to dropbox by midnight Sunday.   
