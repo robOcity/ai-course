@@ -19,17 +19,23 @@
 
 1. From the experts
 
-    1.  TODO
+    1. Video - [Reasoning: Goal Trees and Problem Solving](https://youtu.be/PNKj529yY5c)
+
+    1. Video - [Search: Depth-First, Hill Climbing, Beam](https://youtu.be/j1H3jAAGlEA)
+
+    1. Video - [Search: Optimal, Branch and Bound, A*](https://youtu.be/gGQ-vAmdAOI)
+
+    1. Cite: Patrick Winston. 6.034 Artificial Intelligence. Fall 2010. Massachusetts Institute of Technology: MIT OpenCourseWare, https://ocw.mit.edu. License: Creative Commons BY-NC-SA.
 
 1. Discussion
 
-    1. Programming Assignment. Post to get help or answer questions.  
+    1. Topic - Programming assignment. Post questions about the assignment here and offer assistance to others.  _Include the name of the koan and test that you are looking for help on  in your title._ 
 
-    1. 
+    1. Topic - What is the difference between a world state, a state description, and a search node?  Why is the distinction useful?  _Post your response by Wednesday and find two others who approached the problem differently, acknowledge the differences and seek common ground._
 
 1. Programming Assignment. 
 
-    1. **Configure:**  Using Python 3 development environment you developed last week to complete this assignment. 
+    1. **Configure:**  Use the Python 3 development environment you built last week to complete this assignment. 
 
     1. **Complete:** From the Python Koans repository, complete the following Koans in the **python3 folder**.  If you need help or have questions, please post to week's programming assignment discussion topic.   
 
