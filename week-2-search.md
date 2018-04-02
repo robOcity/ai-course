@@ -23,4 +23,44 @@
 
 1. Discussion
 
-    1. Programming Assignment.    
+    1. Programming Assignment. Post to get help or answer questions.  
+
+    1. 
+
+1. Programming Assignment. 
+
+    1. **Configure:**  Using Python 3 development environment you developed last week to complete this assignment. 
+
+    1. **Complete:** From the Python Koans repository, complete the following Koans in the **python3 folder**.  If you need help or have questions, please post to week's programming assignment discussion topic.   
+
+        1. about_true_and_false.py
+        
+        1. about_dictionaries.py
+        
+        1. about_classes.py
+
+        1. about_methods.py
+
+        1. about_inheritance.py
+
+    1. Helpful Resources
+
+        1. [PyToLearn](http://pytolearn.csd.auth.gr/index.html) -- Introductory Python tutorial focused on data science and statistics
+
+        1. [Scipy Lecture Notes](http://www.scipy-lectures.org/) -- An in-depth Python tutorial covering the basics and data science related packages
+
+        1. [Problem Solving with Algorithms and Data Structures using Python](https://interactivepython.org/runestone/static/pythonds/index.html#) -- Algorithms are recipes for solving problems 
+
+        1. [Python Challenge](http://www.pythonchallenge.com/) -- A gamified Python Tutorial
+
+        1. [iPython Tutorial](https://www.learnpython.org/) -- iPython based introductory tutorial
+
+        1. [Solr](https://www.sololearn.com/Course/Python/) -- A beginning to intermediate Python tutorial available online and with mobile app
+
+        1. [Repl.it](https://repl.it/) -- An online development environment for Python and other languages
+    
+    1. **Submit:** 
+        1. Run all koans using the `run.sh` script for macOS or Linux systems, or `run.bat` script for Windows systems.  
+        
+        1. Take a screen shot of your results and submit it to dropbox by midnight Sunday.  
+        1. Directions for how to take a screenshot can be found here for [macOS](https://www.wikihow.com/Take-a-Screenshot-on-a-Mac), [Linux](https://www.wikihow.com/Take-a-Screenshot-in-Linux) and [Windows](https://www.wikihow.com/Take-a-Screenshot-in-Microsoft-Windows).  

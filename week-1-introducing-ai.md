@@ -29,6 +29,8 @@
 
 1. Discussion
 
+    1. Programming Assignment. Post to get help or answer questions.  
+    
     1. Do you think the following assertions are true or false.  Support you conclusions with a example or counter example where appropriate.  _Please pick four of the following, keep your answers to a sentence or two, and post your response by Wednesday._
 
         1.  An agent that senses only partial information about the state cannot be perfectly rations.
@@ -50,6 +52,7 @@
     1. On a warm Sunday night in Tempe Arizona, Elaine Herzberg was walking her bike across a street. Maybe she thought that the car approaching car would slow, or change lanes. The driver behind the wheel was alert but was simply there to keep an eye on the artificial intelligence (AI) that in control of the car. An array of sensors fed streams of data to the AI as it drove cautiously through the night at 5 MPH below the posted speed limit. Tragically, none of the participants involved in this accident were able to prevent it.  Moments later -- having been hit by a vehicle moving at 40 MPH -- Elaine Herzberg lay dying on the side of the road.  Please read [How a Self-Driving Uber
 Killed a Pedestrian in Arizona](https://www.nytimes.com/interactive/2018/03/20/us/self-driving-uber-pedestrian-killed.html).  Then respond to the following prompt by midnight Wednesday and by midnight Sunday please share your respectful thoughts on three other student's responses.  _Which of the participants is responsible for this tragic accident?  How can an AI be held accountable?_
 
+
 1. Programming Assignment. 
 
     1. **Configure:** We will be using Python 3 for all of our assignments in this class.  Prepare your development environment by installing Python and and a code editor.  
@@ -64,7 +67,7 @@ Killed a Pedestrian in Arizona](https://www.nytimes.com/interactive/2018/03/20/u
 
             1. [How to completing the Koans - Get started using PythonKoans on a Mac: part 2](https://youtu.be/2r3MLH15kQc)
 
-    1. **Complete:** In the **python3 folder**, complete the following koans and post any questions on this week's programming assignment discussion topic.   
+    1. **Complete:** From the Python Koans repository, complete the **python3 folder**, complete the following koans and post any questions on this week's programming assignment discussion topic.   
 
         1. about_asserts.py
          
