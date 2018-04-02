@@ -52,19 +52,19 @@ Killed a Pedestrian in Arizona](https://www.nytimes.com/interactive/2018/03/20/u
 
 1. Programming Assignment. 
 
-    1. We will be using Python 3 for all of our assignments in this class.  Prepare your development environment by installing Python and and a code editor.  
+    1. **Configure:** We will be using Python 3 for all of our assignments in this class.  Prepare your development environment by installing Python and and a code editor.  
 
-        1. Install the latest version of Anaconda Python 3 for your operating system from [Anaconda](https://www.anaconda.com/) > Products > Download.  If you are familiar with Python and are comfortable using pipenv and pip, then you can use your existing Python installation or get the latest from [Official Python Site](https://www.python.org/) > Downloads.  
+        1. Install the latest version of _Anaconda Python 3_ for your operating system from [Anaconda](https://www.anaconda.com/) > Products > Download.  If you are familiar with Python and are comfortable using pipenv and pip, then you can use your existing Python installation or get the latest from [Official Python Site](https://www.python.org/) > Downloads.  
 
         1. Install a coding editor such as [Visual Studio Code](https://code.visualstudio.com/) or [Atom](https://atom.io/).  Both are free and are well docuemented.  
     
-    1. Clone or download the [Python Koans](https://github.com/gregmalcolm/python_koans) from [GitHub](https://github.com/).
-    
-        1. [Installing the Python Koans - Get started using PythonKoans on a Mac: part 1](https://youtu.be/e2WXgXEjbHY)
+        1. Clone or download the [Python Koans](https://github.com/gregmalcolm/python_koans) from [GitHub](https://github.com/).
+        
+            1. [Installing the Python Koans - Get started using PythonKoans on a Mac: part 1](https://youtu.be/e2WXgXEjbHY)
 
-        1. [How to completing the Koans - Get started using PythonKoans on a Mac: part 2](https://youtu.be/2r3MLH15kQc)
+            1. [How to completing the Koans - Get started using PythonKoans on a Mac: part 2](https://youtu.be/2r3MLH15kQc)
 
-    1. In the **python3 folder**, complete the koans in:
+    1. **Complete:** In the **python3 folder**, complete the following koans and post any questions on this week's programming assignment discussion topic.   
 
         1. about_asserts.py
          
@@ -75,5 +75,25 @@ Killed a Pedestrian in Arizona](https://www.nytimes.com/interactive/2018/03/20/u
         1. about_control_statements.py
 
         1. about_statements.py 
+
+    1. Helpful resources
+
+        1. [PyToLearn](http://pytolearn.csd.auth.gr/index.html) -- Introductory Python tutorial focused on data science and statistics
+
+        1. [Scipy Lecture Notes](http://www.scipy-lectures.org/) -- An in-depth Python tutorial covering the basics and data science related packages
+
+        1. [Problem Solving with Algorithms and Data Structures using Python](https://interactivepython.org/runestone/static/pythonds/index.html#) -- Algorithms are recipes for solving problems 
+
+        1. [Python Challenge](http://www.pythonchallenge.com/) -- A gamified Python Tutorial
+
+        1. [iPython Tutorial](https://www.learnpython.org/) -- iPython based introductory tutorial
+
+        1. [Solr](https://www.sololearn.com/Course/Python/) -- A beginning to intermediate Python tutorial available online and with mobile app
+
+        1. [Repl.it](https://repl.it/) -- An online development environment for Python and other languages
     
-    1. Use the run script to show which of the koans you have working.  Take a screen shot of your the results and submit it to dropbox by midnight Sunday.   
+    1. **Submit:** 
+        1. Run all koans using the `run.sh` script for macOS or Linux systems, or `run.bat` script for Windows systems.  
+        
+        1. Take a screen shot of your results and submit it to dropbox by midnight Sunday.  
+        1. Directions for how to take a screenshot can be found here for [macOS](https://www.wikihow.com/Take-a-Screenshot-on-a-Mac), [Linux](https://www.wikihow.com/Take-a-Screenshot-in-Linux) and [Windows](https://www.wikihow.com/Take-a-Screenshot-in-Microsoft-Windows).  
