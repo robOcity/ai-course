@@ -64,7 +64,7 @@ Killed a Pedestrian in Arizona](https://www.nytimes.com/interactive/2018/03/20/u
 
         1. [How to completing the Koans - Get started using PythonKoans on a Mac: part 2](https://youtu.be/2r3MLH15kQc)
 
-    1. In the **python3 folder**, complete the koans in:
+    1. In the **python3 folder**, answer atleast 80% of the koans correctly and list you need help:
 
         1. about_asserts.py
          
@@ -76,4 +76,4 @@ Killed a Pedestrian in Arizona](https://www.nytimes.com/interactive/2018/03/20/u
 
         1. about_statements.py 
     
-    1. Use the run script to show which of the koans you have working.  Take a screen shot of your the results and submit it to dropbox by midnight Sunday.   
+    1. Use the `run.sh` on OS X or Linux and `run.bat` on Windows to run the koans.  Take a screen shot of your the results to show which one you have working.  Post questions to the discussion formum for this assignment, so that everyone can benefit.  Submit your screenshot to dropbox by midnight Sunday.   
