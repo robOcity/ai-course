@@ -55,6 +55,7 @@
         1. Run all koans using the `run.sh` script for macOS or Linux systems, or `run.bat` script for Windows systems.
 
         1. Take a screen shot of your results and submit it to dropbox by midnight Sunday.
+
         1. Directions for how to take a screenshot can be found here for [macOS](https://www.wikihow.com/Take-a-Screenshot-on-a-Mac), [Linux](https://www.wikihow.com/Take-a-Screenshot-in-Linux) and [Windows](https://www.wikihow.com/Take-a-Screenshot-in-Microsoft-Windows).
 
     1. **Resources**
@@ -63,7 +64,7 @@
 
         1. [Scipy Lecture Notes](http://www.scipy-lectures.org/) -- An in-depth Python tutorial covering the basics and data science related packages
 
-        1. [Problem Solving with Algorithms and Data Structures using Python](https://interactivepython.org/runestone/static/pythonds/index.html#) -- Algorithms are recipes for solving problems 
+        1. [Problem Solving with Algorithms and Data Structures using Python](https://interactivepython.org/runestone/static/pythonds/index.html#) -- Algorithms are recipes for solving problems
 
         1. [Python Challenge](http://www.pythonchallenge.com/) -- A gamified Python Tutorial
 
