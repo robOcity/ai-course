@@ -4,13 +4,13 @@
 
 1. **Learning objectives**
 
+    1. Construct a model of a search tree, explain the role of nodes and edges, and explain the difference between a graph and tree.
+
     1. Contrast informed and uninformed search algorithms in terms of completeness, optimality, time complexity and space complexity.
 
     1. Illustrate how a path through the state space from the initial state to the goal state is a product of actions taken to transition from one state to the next.
 
     1. Explain and demonstrate breadth-first search, depth-first search, greedy best-first search and A* search algorithms.
-
-    1. Develop a working code that implement two different search algorithms.
 
 1. **Readings**
 
