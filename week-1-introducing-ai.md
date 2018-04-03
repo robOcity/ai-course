@@ -1,8 +1,8 @@
 # Week 1 - Introducing Artificial Intelligence
 
-1. Motivation:  Introducing the field of artificial intelligence (AI), its history and foundations.  Our text focuses on rational agents that sense and act in their environment to achieve goals, and shows how artificially intelligent systems are constructed.
+1. **Motivation**:  Introducing the field of artificial intelligence (AI), its history and foundations.  Our text focuses on rational agents that sense and act in their environment to achieve goals, and shows how artificially intelligent systems are constructed.
 
-1. Learning objectives
+1. **Learning objectives**
 
     1. Describe how thinking, acting and behaving provide a framework for understanding differing approaches to AI.
 
@@ -12,16 +12,17 @@
 
     1. Contrast simple reflex agents, model-based reflex agents, goal-based agents and utility-based agents.
 
-1. Readings
+1. **Readings**
+
     1. Read Chapter 1 - Introduction (sections 1.1, 1.2 (skim), 1.3 (skim))
 
     1. Read Chapter 2 - Intelligent Agents (all sections)
 
     1. Text: Stuart Russel and Peter Norvig. _Artificial Intelligence: A Modern Approach_ (3rd ed). Prentice-Hall. 2010.
 
-1. From the experts
+1. **From the experts**
 
-    1. Reading - Alan Turing's contributions to computer science. The British mathematician Alan Turing work was foundational in the field of artificial intelligence and theoretical computer science.  His original work is available online and is surprisingly readable.
+    1. Read - Alan Turing's contributions to computer science. The British mathematician Alan Turing work was foundational in the field of artificial intelligence and theoretical computer science.  His original work is available online and is surprisingly readable.
 
         1. By posing the deceptively simple question "Can machines think?", Alan Turing initiated what would become field of artificial intelligence with the publication of his "Computing Machinery and Intelligence" paper ([original](http://www.turingarchive.org/browse.php/B/9) and [pdf](https://www.csee.umbc.edu/courses/471/papers/turing.pdf)) in 1950.  In this paper he proposes a simple game where the contestant tries to determine which one of two hidden contestants is a computer.  All communication is limited to text.  Calling this the "imitation game", asks what would happen when a machine is questioned, and whether it should be considered intelligent if it able to fool the human.  The Turing test conditions artificial intelligence on acting humanly.  Cite: [On Turing’s “Computing Machinery and Intelligence”](https://graehamdouglas.com/2013/12/27/on-turings-computing-machinery-and-intelligence/).
 
@@ -31,11 +32,11 @@
 
     1. Cite: Patrick Winston. 6.034 Artificial Intelligence. Fall 2010. Massachusetts Institute of Technology: MIT OpenCourseWare, https://ocw.mit.edu. License: Creative Commons BY-NC-SA.
 
-1. Discussion
+1. **Discussion**
 
-    1. Topic - Programming assignment. Post questions about the assignment here and offer assistance to others.  _Include the name of the koan and test that you are looking for help on  in your title._
+    1. **Discuss** - Programming assignment. Post questions about the assignment here and offer assistance to others.  _Include the name of the koan and test that you are looking for help on  in your title._
 
-    1. Topic - Agents. Do you think the following assertions are true or false.  Support you conclusions with a example or counter example where appropriate.  _Please pick four of the following, keep your answers to a sentence or two, and post your response by Wednesday._
+    1. **Discuss** - Agents. Do you think the following assertions are true or false.  Support you conclusions with a example or counter example where appropriate.  _Please pick four of the following, keep your answers to a sentence or two, and post your response by Wednesday._
 
         1. An agent that senses only partial information about the state cannot be perfectly rations.
 
@@ -53,7 +54,7 @@
 
         1. A perfectly rational poker-playing agent never loses.
 
-    1. Topic - Autonomous vehicle safety: On a warm Sunday night in Tempe Arizona, Elaine Herzberg was walking her bike across a street. Maybe she thought that the car approaching car would slow, or change lanes. The driver behind the wheel was alert but was simply there to keep an eye on the artificial intelligence (AI) that in control of the car. An array of sensors fed streams of data to the AI as it drove cautiously through the night at 5 MPH below the posted speed limit. Tragically, none of the participants involved in this accident were able to prevent it.  Moments later -- having been hit by a vehicle moving at 40 MPH -- Elaine Herzberg lay dying on the side of the road.
+    1. **Discuss** - Autonomous vehicle safety: On a warm Sunday night in Tempe Arizona, Elaine Herzberg was walking her bike across a street. Maybe she thought that the car approaching car would slow, or change lanes. The driver behind the wheel was alert but was simply there to keep an eye on the artificial intelligence (AI) that in control of the car. An array of sensors fed streams of data to the AI as it drove cautiously through the night at 5 MPH below the posted speed limit. Tragically, none of the participants involved in this accident were able to prevent it.  Moments later -- having been hit by a vehicle moving at 40 MPH -- Elaine Herzberg lay dying on the side of the road.
 
         1. Please read [How a Self-Driving Uber Killed a Pedestrian in Arizona](https://www.nytimes.com/interactive/2018/03/20/us/self-driving-uber-pedestrian-killed.html).
 
@@ -63,7 +64,7 @@
 
         1. How can an AI be held accountable?
 
-1. Programming Assignment.
+1. **Programming Assignment**
 
     1. **Configure:** We will be using Python 3 for all of our assignments in this class.  Prepare your development environment by installing Python and and a code editor.
 
@@ -89,7 +90,7 @@
 
         1. about_statements.py
 
-    1. Helpful resources
+    1. **Resources**
 
         1. [PyToLearn](http://pytolearn.csd.auth.gr/index.html) -- Introductory Python tutorial focused on data science and statistics
 
