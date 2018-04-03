@@ -53,7 +53,15 @@
 
         1. A perfectly rational poker-playing agent never loses.
 
-    1. Topic - Autonomous vehicle safety: On a warm Sunday night in Tempe Arizona, Elaine Herzberg was walking her bike across a street. Maybe she thought that the car approaching car would slow, or change lanes. The driver behind the wheel was alert but was simply there to keep an eye on the artificial intelligence (AI) that in control of the car. An array of sensors fed streams of data to the AI as it drove cautiously through the night at 5 MPH below the posted speed limit. Tragically, none of the participants involved in this accident were able to prevent it.  Moments later -- having been hit by a vehicle moving at 40 MPH -- Elaine Herzberg lay dying on the side of the road.  Please read [How a Self-Driving Uber Killed a Pedestrian in Arizona](https://www.nytimes.com/interactive/2018/03/20/us/self-driving-uber-pedestrian-killed.html).  Then respond to the following prompt by midnight Wednesday and by midnight Sunday please share your respectful thoughts on three other student's responses.  _Which of the participants is responsible for this tragic accident?  How can an AI be held accountable?_
+    1. Topic - Autonomous vehicle safety: On a warm Sunday night in Tempe Arizona, Elaine Herzberg was walking her bike across a street. Maybe she thought that the car approaching car would slow, or change lanes. The driver behind the wheel was alert but was simply there to keep an eye on the artificial intelligence (AI) that in control of the car. An array of sensors fed streams of data to the AI as it drove cautiously through the night at 5 MPH below the posted speed limit. Tragically, none of the participants involved in this accident were able to prevent it.  Moments later -- having been hit by a vehicle moving at 40 MPH -- Elaine Herzberg lay dying on the side of the road.
+
+        1. Please read [How a Self-Driving Uber Killed a Pedestrian in Arizona](https://www.nytimes.com/interactive/2018/03/20/us/self-driving-uber-pedestrian-killed.html).
+
+        1. _Then respond to the following prompts by midnight Wednesday and by midnight Sunday please share your respectful thoughts on three other student's responses._
+
+        1. Which of the participants is responsible for this tragic accident?
+
+        1. How can an AI be held accountable?
 
 1. Programming Assignment.
 
@@ -100,5 +108,5 @@
     1. **Submit:**
         1. Run all koans using the `run.sh` script for macOS or Linux systems, or `run.bat` script for Windows systems.
 
-        1. Take a screen shot of your results and submit it to dropbox by midnight Sunday.  
+        1. Take a screen shot of your results and submit it to dropbox by midnight Sunday.
         1. Directions for how to take a screenshot can be found here for [macOS](https://www.wikihow.com/Take-a-Screenshot-on-a-Mac), [Linux](https://www.wikihow.com/Take-a-Screenshot-in-Linux) and [Windows](https://www.wikihow.com/Take-a-Screenshot-in-Microsoft-Windows).
