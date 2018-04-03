@@ -68,7 +68,7 @@
 
     1. **Configure:** We will be using Python 3 for all of our assignments in this class.  Prepare your development environment by installing Python and and a code editor.
 
-        1. Install the latest version of _Anaconda Python 3_ for your operating system from [Anaconda](https://www.anaconda.com/) > Products > Download.  If you are familiar with Python and are comfortable using pipenv and pip, then you can use your existing Python installation or get the latest from [Official Python Site](https://www.python.org/) > Downloads.
+        1. Install the latest version of _Anaconda Python 3_ for your operating system from [Anaconda](https://www.anaconda.com/) > Products > Download.  If you are familiar with Python and are comfortable using pip and pipenv, then use your existing Python installation or create a new one by downloading Python from the [Official Python Site](https://www.python.org/) > Downloads.
 
         1. Install a coding editor such as [Visual Studio Code](https://code.visualstudio.com/) or [Atom](https://atom.io/).  Both are free and are well documented.
 
