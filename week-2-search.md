@@ -72,4 +72,3 @@
         1. [Solr](https://www.sololearn.com/Course/Python/) -- A beginning to intermediate Python tutorial available online and with mobile app
 
         1. [Repl.it](https://repl.it/) -- An online development environment for Python and other languages
-
