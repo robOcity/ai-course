@@ -21,13 +21,15 @@
 
 1. From the experts
 
-    1. Reading - Alan Turing's contributions to computer science. The British mathematician Alan Turing work was foundational in the field of artificial intelligence and theoretical computer science.  His original work is available online and is surprisinglyt readable.
+    1. Reading - Alan Turing's contributions to computer science. The British mathematician Alan Turing work was foundational in the field of artificial intelligence and theoretical computer science.  His original work is available online and is surprisingly readable.
 
-        1. By posing the deceptively simple question "Can machines think?", Alan Turing initiated what would become field of artificial intelligence with the publication of his "Computing Machinery and Intelligence" paper ([original](http://www.turingarchive.org/browse.php/B/9) and [pdf](https://www.csee.umbc.edu/courses/471/papers/turing.pdf)) in 1950.  In this paper he proposes a simple game where the contestant tries to determine which one of two hidden conttestents is a computer.  All communication is limited to text.  Calling this the "imitation game", asks what would happen when a machine is questioned, and whether it should be considered intelligent if it able to fool the human.  The Turing test conditions artificial intelligence on acting humanly.  Cite: [On Turing’s “Computing Machinery and Intelligence”](https://graehamdouglas.com/2013/12/27/on-turings-computing-machinery-and-intelligence/).
+        1. By posing the deceptively simple question "Can machines think?", Alan Turing initiated what would become field of artificial intelligence with the publication of his "Computing Machinery and Intelligence" paper ([original](http://www.turingarchive.org/browse.php/B/9) and [pdf](https://www.csee.umbc.edu/courses/471/papers/turing.pdf)) in 1950.  In this paper he proposes a simple game where the contestant tries to determine which one of two hidden contestants is a computer.  All communication is limited to text.  Calling this the "imitation game", asks what would happen when a machine is questioned, and whether it should be considered intelligent if it able to fool the human.  The Turing test conditions artificial intelligence on acting humanly.  Cite: [On Turing’s “Computing Machinery and Intelligence”](https://graehamdouglas.com/2013/12/27/on-turings-computing-machinery-and-intelligence/).
 
         1. Turing machines -- a hypothetical machine that is capable of simulating *any* computer algorithm -- are a central topic in theoretical computer science.  Turing used this abstraction to prove that an algorithm cannot determine if another algorithm will find a result and stop, or not. Known as the halting problem, Turing showed that this problem is undecidable in his 1936 [paper](http://www.turingarchive.org/browse.php/B/12). Cite: Copeland, J. (2000, July). What is a Turing Machine? Retrieved March 22, 2018, from [What is a Turing Machine](http://www.alanturing.net/turing_archive/pages/reference%20articles/what%20is%20a%20turing%20machine.html).
 
-    1. Video - [Introduction to AI](https://youtu.be/TjZBTDzGeGg) 
+    1. Video - [Introduction to AI](https://youtu.be/TjZBTDzGeGg)
+
+    1. Cite: Patrick Winston. 6.034 Artificial Intelligence. Fall 2010. Massachusetts Institute of Technology: MIT OpenCourseWare, https://ocw.mit.edu. License: Creative Commons BY-NC-SA.
 
 1. Discussion
 
@@ -59,7 +61,7 @@
 
         1. Install the latest version of _Anaconda Python 3_ for your operating system from [Anaconda](https://www.anaconda.com/) > Products > Download.  If you are familiar with Python and are comfortable using pipenv and pip, then you can use your existing Python installation or get the latest from [Official Python Site](https://www.python.org/) > Downloads.
 
-        1. Install a coding editor such as [Visual Studio Code](https://code.visualstudio.com/) or [Atom](https://atom.io/).  Both are free and are well docuemented.
+        1. Install a coding editor such as [Visual Studio Code](https://code.visualstudio.com/) or [Atom](https://atom.io/).  Both are free and are well documented.
 
         1. Clone or download the [Python Koans](https://github.com/gregmalcolm/python_koans) from [GitHub](https://github.com/).
 
