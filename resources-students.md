@@ -24,8 +24,12 @@
 
 ## Podcasts
 
-* [Linear Digressions](http://lineardigressions.com/) - A conversational exploration of topics in data science.
-
 * [Talk Python to Me](https://talkpython.fm/) - Interviews of notable developers and authors in the Python community including those active in the AI and data science space.
 
 * [Python Bytes](https://pythonbytes.fm/) - Python news and resources
+
+* [Linear Digressions](http://lineardigressions.com/) - A conversational exploration of topics in data science.
+
+* [Data Sceptic](https://dataskeptic.com/) - Data science, statistics, machine learning, artificial intelligence, and scientific skepticism.
+
+* [Partially Derivative](http://partiallyderivative.com/) - "Partially Derivative is a podcast about data science in the world around us" including a number of episodes on AI. 
