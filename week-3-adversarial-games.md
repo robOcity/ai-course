@@ -27,6 +27,8 @@
 
     1. **Discuss** - Programming assignment. Post questions about the assignment here and offer assistance to others.  _Include the name of the koan and test that you are looking for help on  in your title._
 
+    1. Given what you have learned this week, how well do you think that the standard approach to game playing would work for games like tennis, pool, and croquet, which take place in a continuous physical state space?  _Support your answer in your discussion by midnight Wednesday.  Reply to three other students by midnight Sunday._
+
 1. **Programming Assignment**
 
     1. **Write the code:** Solve the 8-puzzle by using your Python development environment add the missing code.  Find missing code by searching for "YOUR CODE HERE" in the starter python code provided with this project.
