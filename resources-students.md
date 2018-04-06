@@ -16,13 +16,15 @@
 
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/intro/learning/) - A currated list of Python tutorials each with a short description.  
 
-* [Let's learn Python 3 in your PJ's](Let's learn Python 3 in your PJ's) - Introductory video tutorial on Python 3.
+* [Let's learn Python 3 in your PJ's](Let's learn Python 3 in your PJ's) - Introductory video tutorial on Python 3 for beginners.
 
 * [Python 3 Tutorial](https://www.python-course.eu/python3_course.php) - Intermediate Python 3 tutorial.
 
 * [Think Python](http://greenteapress.com/wp/think-python-2e/) - An excellent introduction to Python3 for beginners.  If you like this free online text consider buying a physical copy.
 
 * [Dive into Python 3](http://www.diveintopython3.net/) - Another outstanding free online text, only this one is for experienced programmers.  Consider buyin a copy if you find it proves valuable.
+
+* [Python Tutor](http://pythontutor.com/) - Visualize your Python code at runtime and is invaluable for debugging issues lists, tuples, dictionaires, sets and other Python fundimentals.  If you are struggling with an aspect of your code, cut and paste it into Python Tutor and see what is going on.
 
 * [Awesome Python](https://github.com/vinta/awesome-python) - A currated list of the best Python packages by topic.
 
