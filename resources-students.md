@@ -20,6 +20,10 @@
 
 * [Python 3 Tutorial](https://www.python-course.eu/python3_course.php) - Intermediate Python 3 tutorial.
 
+* [Think Python](http://greenteapress.com/wp/think-python-2e/) - An excellent introduction to Python3 for beginners.  If you like this free online text consider buying a physical copy.
+
+* [Dive into Python 3](http://www.diveintopython3.net/) - Another outstanding free online text, only this one is for experienced programmers.  Consider buyin a copy if you find it proves valuable.
+
 * [Awesome Python](https://github.com/vinta/awesome-python) - A currated list of the best Python packages by topic.
 
 ## Podcasts
