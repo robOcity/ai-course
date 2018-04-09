@@ -57,19 +57,3 @@
         1. Take a screen shot of your results and submit it to dropbox by midnight Sunday.
 
         1. Directions for how to take a screenshot can be found here for [macOS](https://www.wikihow.com/Take-a-Screenshot-on-a-Mac), [Linux](https://www.wikihow.com/Take-a-Screenshot-in-Linux) and [Windows](https://www.wikihow.com/Take-a-Screenshot-in-Microsoft-Windows).
-
-    1. **Resources**
-
-        1. [PyToLearn](http://pytolearn.csd.auth.gr/index.html) -- Introductory Python tutorial focused on data science and statistics
-
-        1. [Scipy Lecture Notes](http://www.scipy-lectures.org/) -- An in-depth Python tutorial covering the basics and data science related packages
-
-        1. [Problem Solving with Algorithms and Data Structures using Python](https://interactivepython.org/runestone/static/pythonds/index.html#) -- Algorithms are recipes for solving problems
-
-        1. [Python Challenge](http://www.pythonchallenge.com/) -- A gamified Python Tutorial
-
-        1. [iPython Tutorial](https://www.learnpython.org/) -- iPython based introductory tutorial
-
-        1. [Solr](https://www.sololearn.com/Course/Python/) -- A beginning to intermediate Python tutorial available online and with mobile app
-
-        1. [Repl.it](https://repl.it/) -- An online development environment for Python and other languages
