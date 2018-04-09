@@ -31,7 +31,7 @@
 
 1. **Programming Assignment**
 
-    1. **Write the code:** Solve the 8-puzzle by using your Python development environment add the missing code.  Find missing code by searching for "YOUR CODE HERE" in the starter python code provided with this project.
+    1. **Write the code:** For this assignment you are going to be building a solver for the 8-puzzle.  Starter code is provided and can be downloaded from Dropbox.  Using your Python development environment add the missing code wherever you find "YOUR CODE HERE" in the starter code.  
 
     1. **Get it running*:** Run your code and fix any syntax and runtime errors that you uncover.
 
