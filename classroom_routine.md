@@ -7,4 +7,4 @@
     - Start with a promise of what students will understand by the end of the lecture
 4. Demonstration - Show practical application
 5. Exercise - Apply new material
-6. End with something funny
+6. End with humor
