@@ -21,7 +21,7 @@
 
     1. Video - [Search: Games, Minimax, and Alpha-Beta](https://youtu.be/STjW3eH0Cik)
 
-    1. Cite: Patrick Winston. 6.034 Artificial Intelligence. Fall 2010. Massachusetts Institute of Technology: MIT OpenCourseWare, https://ocw.mit.edu. License: Creative Commons BY-NC-SA.
+    1. Cite: Patrick Winston. 6.034 Artificial Intelligence. Fall 2010. Massachusetts Institute of Technology: MIT OpenCourseWare, [https://ocw.mit.edu](https://ocw.mit.edu). License: Creative Commons BY-NC-SA.
 
 1. **Discussion**
 
@@ -31,7 +31,7 @@
 
 1. **Programming Assignment**
 
-    1. **Write the code:** For this assignment you are going to be building a solver for the 8-puzzle.  Starter code is provided and can be downloaded from Dropbox.  Using your Python development environment add the missing code wherever you find "YOUR CODE HERE" in the starter code.  
+    1. **Write the code:** For this assignment you are going to be building a solver for the 8-puzzle.  Starter code is provided and can be downloaded from Dropbox.  Using your Python development environment add the missing code wherever you find "YOUR CODE HERE" in the starter code.
 
     1. **Get it running:** Run your code and fix any syntax and runtime errors that you uncover.
 
