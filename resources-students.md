@@ -16,6 +16,8 @@
 
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/intro/learning/) - A currated list of Python tutorials each with a short description.  
 
+* [LearnPython.org](https://www.learnpython.org/) - An interactive Python 3 tutorial.
+
 * [Let's learn Python 3 in your PJ's](Let's learn Python 3 in your PJ's) - Introductory video tutorial on Python 3 for beginners.
 
 * [Python 3 Tutorial](https://www.python-course.eu/python3_course.php) - Intermediate Python 3 tutorial.
