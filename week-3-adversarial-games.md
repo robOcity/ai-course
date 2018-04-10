@@ -15,6 +15,7 @@
     1. Develop working code that implements two different search algorithms.
 
 1. **Readings**
+
     1. Read Chapter 5 - Adversarial Search (sections 5.1 to 5.6, skip 5.7 and 5.8)
 
 1. **From the experts**
