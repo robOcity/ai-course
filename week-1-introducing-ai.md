@@ -90,22 +90,6 @@
 
         1. about_statements.py
 
-    1. **Resources**
-
-        1. [PyToLearn](http://pytolearn.csd.auth.gr/index.html) -- Introductory Python tutorial focused on data science and statistics
-
-        1. [Scipy Lecture Notes](http://www.scipy-lectures.org/) -- An in-depth Python tutorial covering the basics and data science related packages
-
-        1. [Problem Solving with Algorithms and Data Structures using Python](https://interactivepython.org/runestone/static/pythonds/index.html#) -- Algorithms are recipes for solving problems 
-
-        1. [Python Challenge](http://www.pythonchallenge.com/) -- A gamified Python Tutorial
-
-        1. [iPython Tutorial](https://www.learnpython.org/) -- iPython based introductory tutorial
-
-        1. [Solr](https://www.sololearn.com/Course/Python/) -- A beginning to intermediate Python tutorial available online and with mobile app
-
-        1. [Repl.it](https://repl.it/) -- An online development environment for Python and other languages
-
     1. **Submit:**
         1. Run all koans using the `run.sh` script for macOS or Linux systems, or `run.bat` script for Windows systems.
 
