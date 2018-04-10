@@ -14,7 +14,7 @@
 
     1. Show how the 8-queens problem can be solved using backtracking.
 
-    1. Relate the complexity of solving a CSP with the graph of its constraints. 
+    1. Relate the complexity of solving a CSP with the graph of its constraints.
 
 1. Readings
     1. Read Chapter 6 - Constraint Satisfaction Problems (sections)
@@ -27,7 +27,7 @@
 
     1. [Constraints: Visual Object Recognition](https://youtu.be/gvmfbePC2pc)
 
-    1. Cite: Patrick Winston. 6.034 Artificial Intelligence. Fall 2010. Massachusetts Institute of Technology: MIT OpenCourseWare, https://ocw.mit.edu. License: Creative Commons BY-NC-SA.
+    1. Cite: Patrick Winston. 6.034 Artificial Intelligence. Fall 2010. Massachusetts Institute of Technology: MIT OpenCourseWare, [https://ocw.mit.edu](https://ocw.mit.edu). License: Creative Commons BY-NC-SA.
 
 1. Discussion
 
