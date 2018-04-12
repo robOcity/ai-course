@@ -2,7 +2,7 @@
 
 ## Course Overview
 
-Hello and welcome to MSDS 688 – Artificial Intelligence.  By posing the question "Can machines think?" in 1950 Alan Turing initiates the field that we now know as artificial intelligence.  Today, artificial intelligence (AI) is assisting doctors in the early detection of cancers, virtual assistants use natural language to communicate, partially autonomous vehicles are on-sale at dealerships, and most importantly, recognizing cat videos on YouTube.  Taking inspiration from psychology, neuroscience, mathematics, physics and computer science; AI has made great progress and experienced significant setbacks.  In this course, we will learn how artificially intelligent systems work, grapple with their ethics implications, and implement expository examples in Python.
+Hello and welcome to Artificial Intelligence.  By posing the question "Can machines think?" in 1950 Alan Turing initiates the field that we now know as artificial intelligence.  Today, artificial intelligence (AI) is assisting doctors in the early detection of cancers, virtual assistants use natural language to communicate, partially autonomous vehicles are on-sale at dealerships, and most importantly, recognizing cat videos on YouTube.  Taking inspiration from psychology, neuroscience, mathematics, physics and computer science; AI has made great progress and experienced significant setbacks.  In this course, we will learn how artificially intelligent systems work, grapple with their ethics implications, and implement expository examples in Python.
 
 ## Course Objectives
 
@@ -10,7 +10,7 @@ Hello and welcome to MSDS 688 – Artificial Intelligence.  By posing the questi
 
 1. Assess the performance of artificially intelligent systems (Evaluation) --> Weeks 1 and 6
 
-1. Examine the ethical implications of a artificially intelligent systems (Analysis) --> Discussion topics --> Weeks 1, 5 and 8
+1. Examine the ethical implications of a artificially intelligent systems (Analysis) --> Addressed in discussion questions during weeks 1, 5 and 8
 
 1. Apply search algorithms to solve problems (Application) --> Week 2
 
@@ -18,7 +18,7 @@ Hello and welcome to MSDS 688 – Artificial Intelligence.  By posing the questi
 
 1. Construct knowledge representations using logic (Synthesis) --> Week 5
 
-1. Solve problems (be more specific) with uncertainty information using Bayesian methods (Application)  --> Week 6
+1. Solve problems (be more specific) with uncertainty information using Bayesian methods (Application) --> Week 6
 
 1. Employ machine learning algorithms in artificially intelligent systems (Application) --> Week 7 and 8
 
