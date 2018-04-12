@@ -1,6 +1,6 @@
 # Week 5 - Logical Agents in Wumpus World
 
-1. Motivation: Introducing predicate logic and applying it to Wumpus World - a simple grid-based hunting game.
+1. Motivation: Introducing first-order logic and applying it to Wumpus World - a simple grid-based hunting game.
 
 1. Learning objectives
 
