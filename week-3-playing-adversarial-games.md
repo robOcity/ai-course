@@ -1,6 +1,6 @@
 # Week 3 - Playing Adversarial Games
 
-1. **Motivation:** Learning to apply search algorithms to popular games such as chess, backgammon and cards.  We will use the minmax algorithm to illustrates how large search tree can grow and discover how use pruning allows for more complex games to be played.  Understanding the limits of optimal game play sets the stage for a deeper examination of search through our implementation of our own 8-puzzle solvers.
+1. **Motivation:** Learning to apply search algorithms to popular games such as chess, backgammon and cards.  We will use the minmax algorithm to illustrate how large a search tree can grow and discover that pruning allows for more complex games to be played.  Understanding the limits of optimal game play sets the stage for a deeper examination of search through our implementation of our own 8-puzzle solvers.
 
 1. **Learning objectives**
 
