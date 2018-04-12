@@ -1,17 +1,17 @@
 # Course Objectives
 
-1. Discuss artificially intelligent systems using intelligent agents as context (Comprehension)
+1. Discuss artificially intelligent systems using intelligent agents as context (Comprehension) --> Week 1
 
-1. Apply search algorithms to solve problems (Application)
+1. Assess the performance of artificially intelligent systems (Evaluation) --> Weeks 1 and 6
 
-1. Construct knowledge representations using logic (Synthesis)
+1. Examine the ethical implications of a artificially intelligent systems (Analysis) --> Discussion topics --> Weeks 1, 5 and 8
 
-1. Use knowledge to answer questions and draw new conclusions (Application)
+1. Apply search algorithms to solve problems (Application) --> Week 2
 
-1. Employ machine learning algorithms in artificially intelligent systems (Application)
+1. Illustrate how utility fucntions, heuristics and pruning improve search efficiency by shrinking the search space (Application) --> Weeks 3 and 4
 
-1. Solve problems (be more specific) with uncertainty information using Bayesian methods (Application)
+1. Construct knowledge representations using logic (Synthesis) --> Week 5
 
-1. Assess the performance of artificially intelligent systems (Evaluation)
+1. Solve problems (be more specific) with uncertainty information using Bayesian methods (Application)  --> Week 6
 
-1. Examine the ethical implications of a artificially intelligent systems (Analysis)
+1. Employ machine learning algorithms in artificially intelligent systems (Application) --> Week 7 and 8
