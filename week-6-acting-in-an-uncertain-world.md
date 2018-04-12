@@ -1,4 +1,4 @@
-# Week 7 - Acting in an Uncertain World
+# Week 6 - Acting in an Uncertain World
 
 1. Motivation: Employing decision theory to eliminate unlikely outcomes from consideration.
 
