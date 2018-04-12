@@ -1,6 +1,6 @@
 # Week 1 - Introducing Artificial Intelligence
 
-1. **Motivation:**  By sensing and acting to obtain a goal -- rational agents -- will be our framework for understanding  artificially intelligent systems.  Examining the history and foundations of the field will prepare us for our journey.
+1. **Motivation:**  By sensing and acting to obtain a goal -- rational agents -- will be the framework for our understanding of artificially intelligent systems.  Examining the history and foundations of the field will prepare us for our journey.
 
 1. **Learning objectives**
 
