@@ -1,4 +1,4 @@
-# Week 4 - Shrinking the Search Space
+# Week 4 - Constraining the Search Space
 
 1. Motivation: Applying constraints allows the size of the search space to be dramatically reduced.
 
