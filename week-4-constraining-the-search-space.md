@@ -1,6 +1,6 @@
 # Week 4 - Constraining the Search Space
 
-1. Motivation: Applying constraints allows the size of the search space to be dramatically reduced.
+1. Motivation: pplying constraints to reduce the size of the search space resulting in dramatic improvements in search algorithm performance.
 
 1. **Learning objectives**
 

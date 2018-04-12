@@ -1,6 +1,6 @@
-# Week 8 - Applying Machine Learning
+# Week 8 - Applying Machine Learning II
 
-1. Motivation: Apply machine learning to improve the performance of artificially intelligent systems.
+1. Motivation: Continuing examination of machine learning in artificially intelligent systems.
 
 1. Learning objectivesa
 

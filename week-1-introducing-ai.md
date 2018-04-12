@@ -1,6 +1,6 @@
 # Week 1 - Introducing Artificial Intelligence
 
-1. **Motivation:**  Introducing the field of artificial intelligence (AI), its history and foundations.  Our text focuses on rational agents that sense and act in their environment to achieve goals, and shows how artificially intelligent systems are constructed.
+1. **Motivation:**  By sensing and acting to obtain a goal -- rational agents -- will be our framework for understanding  artificially intelligent systems.  Examining the history and foundations of the field will prepare us for our journey.
 
 1. **Learning objectives**
 
