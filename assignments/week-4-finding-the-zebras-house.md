@@ -30,4 +30,4 @@
 
 - Milk is drunk in the middle house.
 
-**Post:** Discuss different representations of this problem as a CSP. Why would one prefer one representation over another?
+**Post:** Post your solution to the Assignmetnts folder as a PDF file.  Make sure to include your name on it.
