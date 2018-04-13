@@ -1,6 +1,6 @@
 # Programming Assignment
 
-1. **Configure:**  Use the Python 3 development environment you built last week to complete this assignment. 
+1. **Configure:**  Use the Python 3 development environment you built last week to complete this assignment.
 
 1. **Complete:** From the Python Koans repository, complete the following Koans in the **python3 folder**.  If you need help or have questions, please post to week's programming assignment discussion topic.
 
