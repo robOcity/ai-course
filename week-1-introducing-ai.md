@@ -30,7 +30,7 @@
 
     1. Video - [Introduction to AI](https://youtu.be/TjZBTDzGeGg)
 
-    1. Cite: Patrick Winston. 6.034 Artificial Intelligence. Fall 2010. Massachusetts Institute of Technology: MIT OpenCourseWare, https://ocw.mit.edu. License: Creative Commons BY-NC-SA.
+    1. Cite: Patrick Winston. 6.034 Artificial Intelligence. Fall 2010. Massachusetts Institute of Technology: MIT OpenCourseWare, [https://ocw.mit.edu](https://ocw.mit.edu). License: Creative Commons BY-NC-SA.
 
 1. **Discussion**
 
