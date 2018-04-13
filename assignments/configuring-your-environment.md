@@ -1,6 +1,6 @@
 # Configure Your Environment
 
-1. **Configure:**  We will be using Python 3 for all of our assignments in this class.  Prepare your development environment by installing Python and and a code editor.
+Python 3 is what we be using for all of our assignments in this class.  Prepare your development environment by installing Python and and a code editor.
 
 1. **Install Python 3:**  Install the latest version of _Anaconda Python 3_ for your operating system from [Anaconda](https://www.anaconda.com/) > Products > Download.  If you are familiar with Python and are comfortable using pip and pipenv, then use your existing Python installation or create a new one by downloading Python from the [Official Python Site](https://www.python.org/) > Downloads.
 
