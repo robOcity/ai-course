@@ -10,7 +10,7 @@
 
     1. Illustrate how backtracking can be used to solve a CSP.
 
-    1. Contrast differenct approaches used to solve CSPs such as backtracking and local search.
+    1. Contrast differenct approaches used to solve CSPs, such as backtracking and local search.
 
     1. Show how the 8-queens problem can be solved using backtracking.
 
