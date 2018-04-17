@@ -1,6 +1,6 @@
 # Week 1 - Introducing Artificial Intelligence
 
-1. **Motivation:**  By sensing and acting to obtain a goal -- rational agents -- will be the framework for our understanding of artificially intelligent systems.  Examining the history and foundations of the field will prepare us for our journey.
+1. **Motivation:**  Sensing and acting to obtain a goal -- rational agents -- will be the framework for our understanding of artificially intelligent systems.  Examining the history and foundations of the field will prepare us for our journey.
 
 1. **Learning objectives**
 
@@ -24,9 +24,9 @@
 
     1. Read - Alan Turing's contributions to computer science. The British mathematician Alan Turing work was foundational in the field of artificial intelligence and theoretical computer science.  His original work is available online and is surprisingly readable.
 
-        1. Thinking machines - By posing the deceptively simple question "Can machines think?", Alan Turing initiated what would become field of artificial intelligence with the publication of his "Computing Machinery and Intelligence" paper ([original](http://www.turingarchive.org/browse.php/B/9) and [pdf](https://www.csee.umbc.edu/courses/471/papers/turing.pdf)) in 1950.  In this paper he proposes a simple game where the contestant tries to determine which one of two hidden contestants is a computer.  All communication is limited to text.  Calling this the "imitation game", asks what would happen when a machine is questioned, and whether it should be considered intelligent if it able to fool the human.  The Turing test conditions artificial intelligence on acting humanly.  Cite: [On Turing’s “Computing Machinery and Intelligence”](https://graehamdouglas.com/2013/12/27/on-turings-computing-machinery-and-intelligence/).
+        1. Thinking machines - By posing the deceptively simple question "Can machines think?", Alan Turing initiated what would become the field of artificial intelligence with the publication of his "Computing Machinery and Intelligence" paper ([original](http://www.turingarchive.org/browse.php/B/9) and [pdf](https://www.csee.umbc.edu/courses/471/papers/turing.pdf)) in 1950.  In this paper he proposes a simple game where the contestant tries to determine which one of two hidden contestants is a computer.  All communication is limited to text.  Calling this the "imitation game", he asks what would happen when a machine is questioned and whether it should be considered intelligent if it is able to fool the human.  The Turing test conditions artificial intelligence on _acting humanly_.  Cite: [On Turing’s “Computing Machinery and Intelligence”](https://graehamdouglas.com/2013/12/27/on-turings-computing-machinery-and-intelligence/).
 
-        1. Turing machines - A hypothetical machine that is capable of simulating *any* computer algorithm -- are a central topic in theoretical computer science.  Turing used this abstraction to prove that an algorithm cannot determine if another algorithm will find a result and stop, or not. Known as the halting problem, Turing showed that this problem is undecidable in his 1936 [paper](http://www.turingarchive.org/browse.php/B/12). Cite: Copeland, J. (2000, July). What is a Turing Machine? Retrieved March 22, 2018, from [What is a Turing Machine](http://www.alanturing.net/turing_archive/pages/reference%20articles/what%20is%20a%20turing%20machine.html).
+        1. Turing machines - Are hypothetical machines that are capable of simulating *any* computer algorithm and remain central topic in theoretical computer science to this day.  Turing used this abstraction to prove that an algorithm cannot determine if another algorithm will find a result and stop, or not -- known as the halting problem -- Turing showed that this problem is undecidable in his 1936 [paper](http://www.turingarchive.org/browse.php/B/12). Cite: Copeland, J. (2000, July). What is a Turing Machine? Retrieved March 22, 2018, from [What is a Turing Machine](http://www.alanturing.net/turing_archive/pages/reference%20articles/what%20is%20a%20turing%20machine.html).
 
     1. Video - [Introduction to AI](https://youtu.be/TjZBTDzGeGg)
 
@@ -36,9 +36,9 @@
 
     1. **Discuss:** Programming assignment. Post questions about the assignment here and offer assistance to others.  _Include the name of the koan and test that you are looking for help on  in your title._
 
-    1. **Discuss:** Agents. Do you think the following assertions are true or false.  Support you conclusions with a example or counter example where appropriate.  _Please pick four of the following, keep your answers to a sentence or two, and post your response by Wednesday._
+    1. **Discuss:** Agents. Do you think the following assertions are true or false?  Support you conclusions with a example or counter example where appropriate.  _Please pick four of the following.  Keep your answers to a sentence or two, and post your response by Wednesday._
 
-        1. An agent that senses only partial information about the state cannot be perfectly rations.
+        1. An agent that senses only partial information about the state cannot be perfectly rational.
 
         1. There exists task environments in which every agent is rational.
 
@@ -54,12 +54,12 @@
 
         1. A perfectly rational poker-playing agent never loses.
 
-    1. **Discuss:** Autonomous vehicle safety: On a warm Sunday night in Tempe Arizona, Elaine Herzberg was walking her bike across a street. Maybe she thought that the car approaching car would slow, or change lanes. The driver behind the wheel was alert but was simply there to keep an eye on the artificial intelligence (AI) that in control of the car. An array of sensors fed streams of data to the AI as it drove cautiously through the night at 5 MPH below the posted speed limit. Tragically, none of the participants involved in this accident were able to prevent it.  Moments later -- having been hit by a vehicle moving at 40 MPH -- Elaine Herzberg lay dying on the side of the road.
+    1. **Discuss:** Autonomous vehicle safety: On a warm Sunday night in Tempe Arizona, Elaine Herzberg was walking her bike across a street. Maybe she thought that the car approaching car would slow, or change lanes. The driver behind the wheel was alert but was simply there to keep an eye on the artificial intelligence (AI) that was in control of the car. An array of sensors fed streams of data to the AI as it drove cautiously through the night at 5 MPH below the posted speed limit. Tragically, none of the participants involved in this accident were able to prevent it.  Moments later -- having been hit by a vehicle moving at 40 MPH -- Elaine Herzberg lay dying on the side of the road.
 
         1. Please read [How a Self-Driving Uber Killed a Pedestrian in Arizona](https://www.nytimes.com/interactive/2018/03/20/us/self-driving-uber-pedestrian-killed.html).
 
-        1. _Then respond to the following prompts by midnight Wednesday and by midnight Sunday please share your respectful thoughts on three other student's responses._
+        1. _Respond to the following prompts by midnight Wednesday and by midnight Sunday.  Please share your respectful thoughts on three other student's responses._
 
-        1. Which of the participants is responsible for this tragic accident?
+            1. Which of the participants is responsible for this tragic accident?
 
-        1. How can an AI be held accountable?
+            1. How can an AI be held accountable?

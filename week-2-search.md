@@ -1,10 +1,10 @@
 # Week 2 - Searching for Solutions
 
-1. **Motivation:** Introducing search algorithms and how to improve their efficiency by minimizing a cost function.  Solving a problem involves moving from an initial state to the goal.  The domain of a problem, say the board game checkers, controls the number of possible states, and the actions that can be taken.  Imagine playing checkers without knowing any of the rules -- this is uninformed search -- and yes, winning would take a long time.  Informed search -- where we know the rule and can evaluate the cost of each -- is a much more efficient way of finding the goal.  This week we will examine both types of algorithms, understand their costs, and learn how to measure their performance.
+1. **Motivation:** Introducing search algorithms and how to improve their efficiency by minimizing a cost function.  Solving a problem involves moving from an initial state to the goal.  The domain of a problem, say the board game checkers, controls the number of possible states and the actions that can be taken.  Imagine playing checkers without knowing any of the rules -- this is uninformed search -- and yes, winning would take a long time.  Informed search -- where we know the rule and can evaluate the cost of each -- is a much more efficient way of finding the goal.  This week we will examine both types of algorithms, understand their costs, and learn how to measure their performance.
 
 1. **Learning objectives**
 
-    1. Construct a model of a search tree, explain the role of nodes and edges, and explain the difference between a graph and tree.
+    1. Construct a model of a search tree, explain the role of nodes and edges, and explain the difference between a graph and a tree.
 
     1. Contrast informed and uninformed search algorithms in terms of completeness, optimality, time complexity and space complexity.
 
