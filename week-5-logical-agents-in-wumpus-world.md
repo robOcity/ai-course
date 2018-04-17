@@ -28,4 +28,4 @@
 
 1. Discussion
 
-    1. Please read [Technical challenges in macine ethics](http://robohub.org/technical-challenges-in-machine-ethics/) and illustrate at least two different approaches to addressing ethical concerns in AI.  Can an AI be both logical and ethical?What duties and obligations does an AI have?
+    1. Please read [Technical challenges in macine ethics](http://robohub.org/technical-challenges-in-machine-ethics/) and illustrate at least two different approaches to addressing ethical concerns in AI.  Can an AI be both logical and ethical? What duties and obligations does an AI have?
