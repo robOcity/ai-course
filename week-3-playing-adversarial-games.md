@@ -31,13 +31,3 @@
     1. **Discuss** - Programming assignment. Post questions about the assignment here and offer assistance to others.  _Include the name of the koan and test that you are looking for help on  in your title._
 
     1. Given what you have learned this week, how well do you think that the standard approach to game playing would work for games like tennis, pool, and croquet, which take place in a continuous physical state space?  _Support your answer in your discussion by midnight Wednesday.  Reply to three other students by midnight Sunday._
-
-1. **Programming Assignment**
-
-    1. **Write the code:** For this assignment you are going to be building a solver for the 8-puzzle.  Starter code is provided and can be downloaded from Dropbox.  Using your Python development environment add the missing code wherever you find "YOUR CODE HERE" in the starter code.
-
-    1. **Get it running:** Run your code and fix any syntax and runtime errors that you uncover.
-
-    1. **Get it running right:** Run the tests for this project using `python -m pytest -v test/test.py`.  The more tests that pass the better.
-
-    1. **Submit:** Turn-in your Python code to dropbox on WorldClass.
