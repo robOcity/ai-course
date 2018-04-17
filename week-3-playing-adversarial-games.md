@@ -18,6 +18,8 @@
 
     1. Read Chapter 5 - Adversarial Search (sections 5.1 to 5.6, skip 5.7 and 5.8)
 
+    1. Text: Stuart Russel and Peter Norvig. _Artificial Intelligence: A Modern Approach_ (3rd ed). Prentice-Hall. 2010.
+
 1. **From the experts**
 
     1. Video - [Search: Games, Minimax, and Alpha-Beta](https://youtu.be/STjW3eH0Cik)

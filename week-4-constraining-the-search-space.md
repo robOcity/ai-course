@@ -17,7 +17,10 @@
     1. Relate the complexity of solving a CSP with the graph of its constraints.
 
 1. **Readings**
+
     1. Read Chapter 6 - Constraint Satisfaction Problems (sections)
+
+    1. Text: Stuart Russel and Peter Norvig. _Artificial Intelligence: A Modern Approach_ (3rd ed). Prentice-Hall. 2010.
 
 1. From the experts
 

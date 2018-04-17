@@ -10,6 +10,8 @@
 
     1. Read Chapter 18 - Learning from Examples (sections)
 
+    1. Text: Stuart Russel and Peter Norvig. _Artificial Intelligence: A Modern Approach_ (3rd ed). Prentice-Hall. 2010.
+
 1. From the experts
 
     1. TODO

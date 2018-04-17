@@ -16,6 +16,8 @@
 
     1. Read Chapter 7 - Logical Agents (all sections except 7.6)
 
+    1. Text: Stuart Russel and Peter Norvig. _Artificial Intelligence: A Modern Approach_ (3rd ed). Prentice-Hall. 2010.
+
 1. From the experts
 
     1. [knowledge base agents (logical) and a bit of entailment](https://youtu.be/zOCTxedhf_c)
