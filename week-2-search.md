@@ -26,10 +26,10 @@
 
     1. Video - [Search: Optimal, Branch and Bound, A*](https://youtu.be/gGQ-vAmdAOI)
 
-    1. Cite: Patrick Winston. 6.034 Artificial Intelligence. Fall 2010. Massachusetts Institute of Technology: MIT OpenCourseWare, https://ocw.mit.edu. License: Creative Commons BY-NC-SA.
+    1. Cite: Patrick Winston. 6.034 Artificial Intelligence. Fall 2010. Massachusetts Institute of Technology: MIT OpenCourseWare, [https://ocw.mit.edu](https://ocw.mit.edu). License: Creative Commons BY-NC-SA.
 
 1. **Discussion**
 
-    1. **Discuss** - Programming assignment. Post questions about the assignment here and offer assistance to others.  _Include the name of the koan and test that you are looking for help on  in your title._
+    1. Discuss - Programming assignment. Post questions about the assignment here and please offer assistance to others.  _Include the name of the koan and test that you are looking for help on  in your title._
 
-    1. **Discuss** - What is the difference between a world state, a state description, and a search node?  Why is the distinction useful?  _Post your response by Wednesday and find two others who approached the problem differently, acknowledge the differences and seek common ground._
+    1. Discuss - What is the difference between a world state, a state description, and a search node?  Why is the distinction useful?  _Post your response by Wednesday and find two others who approached the problem differently, acknowledge the differences and seek common ground._

@@ -1,6 +1,6 @@
 # Week 4 - Constraining the Search Space
 
-1. Motivation: Applying constraints to reduce the size of the search space resulting in dramatic improvements in search algorithm performance.
+1. **Motivation**: Applying constraints to reduce the size of the search space resulting in dramatic improvements in search algorithm performance.
 
 1. **Learning objectives**
 
@@ -22,7 +22,7 @@
 
     1. Text: Stuart Russel and Peter Norvig. _Artificial Intelligence: A Modern Approach_ (3rd ed). Prentice-Hall. 2010.
 
-1. From the experts
+1. **From the experts**
 
     1. [Constraints: Interpreting Line Drawings](https://youtu.be/l-tzjenXrvI)
 
@@ -34,6 +34,6 @@
 
 1. **Discussion**
 
-    1. **Discuss:**  Programming assignment. Post questions about the assignment here and offer assistance to others.  _Include the name of the koan and test that you are looking for help on  in your title._
+    1. Discuss:  Programming assignment. Post questions about the assignment here and please offer assistance to others.
 
-    1. **Discuss:**  Discuss two real world problems that can be described as a CSP.
+    1. Discuss:  Discuss two real world problems that can be described as a CSP.
