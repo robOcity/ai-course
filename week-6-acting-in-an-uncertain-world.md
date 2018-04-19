@@ -1,6 +1,6 @@
 # Week 6 - Acting in an Uncertain World
 
-1. Motivation: Your favorite band is in town and you have two tickets for tonight's sold out show.  You and your friend are planning want to get something to eat before the show.  Seating is general admission, so you need to arrive with plenty to get a decent seat.  If the concert starts at 8 PM, when do you leave home?  When do you need to arrive at the restarant and the concert venue?  By the end of this lecture you will be able to create a causality diagram, develop the truth tables to support it, and understand it's basis in probability theory. 
+1. Motivation: Your favorite band is in town and you have two tickets for tonight's sold out show.  You and your friend are planning want to get something to eat before the show.  Seating is general admission, so you need to arrive with plenty to get a decent seat.  If the concert starts at 8 PM, when do you leave home?  When do you need to arrive at the restarant and the concert venue?  By the end of this lecture you will be able to create a causality diagram, develop the truth tables to support it, and understand it's basis in probability theory.
 
 1. Learning objectives
 
@@ -15,7 +15,7 @@
     1. Estimate probabilities for moves in wumpus world.
 
 1. Readings
-    1. Read Chapter 13 - Uncertainty (all sections) 
+    1. Read Chapter 13 - Uncertainty (all sections)
 
     1. Text: Stuart Russel and Peter Norvig. _Artificial Intelligence: A Modern Approach_ (3rd ed). Prentice-Hall. 2010.
 
