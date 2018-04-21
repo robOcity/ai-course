@@ -30,6 +30,10 @@
 
 * [Awesome Python](https://github.com/vinta/awesome-python) - A currated list of the best Python packages by topic.
 
+## Math
+
+* [Introduction to Probability, Statistics and Random Processes](https://www.probabilitycourse.com/) - Online text for the mathematically inclined student with videos, example problems with clear explanations and diagrams.
+
 ## Podcasts
 
 * [Talk Python to Me](https://talkpython.fm/) - Interviews of notable developers and authors in the Python community including those active in the AI and the data science space.
