@@ -1,4 +1,4 @@
-# Week 7 - Applying Machine Learning I
+# Week 7 - Machine Learning in AI
 
 1. Motivation: Applying machine learning to improve the performance of artificially intelligent systems.
 

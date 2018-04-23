@@ -1,4 +1,4 @@
-# Week 8 - Applying Machine Learning II
+# Week 8 - More Machine Learning Models and Applications
 
 1. Motivation: Continuing examination of machine learning in artificially intelligent systems.
 
