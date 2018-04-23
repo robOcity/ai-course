@@ -12,13 +12,13 @@
 
 * [pyvideo](http://pyvideo.org/) - Talks and tutorials from all recent Python conferences. A great resource for learning Python.
 
-## Python 3
-
-* [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/intro/learning/) - A currated list of Python tutorials each with a short description.
-
 ## AI video tutorials
 
 * [MIT undergraduate AI course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - Excellent lectures and materials from a true expert in the field -- [Patrick Winston](https://people.csail.mit.edu/phw/) teaches AI and CS at MIT, headed the MIT Artificial Intelligence Labratory for 25 years, and started his own company [Ascent Technology](http://www.ascent.com/) that solves complex contstraint satisfaction problems.
+
+## Python 3
+
+* [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/intro/learning/) - A currated list of Python tutorials each with a short description.
 
 * [LearnPython.org](https://www.learnpython.org/) - An interactive introduction Python 3 tutorial.  Like [Python Tutor](http://pythontutor.com/) only with explanations and diagrams.
 
