@@ -15,7 +15,12 @@
     1. Estimate probabilities for moves in wumpus world.
 
 1. **Readings**
-    1. Read Chapter 13 - Uncertainty (all sections)
+
+    1. Scan Chapter 8 - First Order Logic (Sections 8.1 through 8.3)
+
+    1. Read Chapter 13 - Quanitifying Uncertainty (Section 13.5)
+
+    1. Read Chapter 14 - Probalistic Reasoning (Sections 14.1 through 14.5)
 
     1. Text: Stuart Russel and Peter Norvig. _Artificial Intelligence: A Modern Approach_ (3rd ed). Prentice-Hall. 2010.
 
