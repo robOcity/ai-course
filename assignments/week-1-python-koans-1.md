@@ -1,4 +1,4 @@
-# Python Koans #1
+# Programming Assignment - Week 1 - Python Koans I
 
 1. **Get the starter code**
     Clone or download the [Python Koans](https://github.com/gregmalcolm/python_koans) from [GitHub](https://github.com/).  Whichever path you take, this creates a folder on your system with the code in it.
@@ -26,6 +26,6 @@
 
     1. Directions for how to take a screenshot can be found here for [macOS](https://www.wikihow.com/Take-a-Screenshot-on-a-Mac), [Linux](https://www.wikihow.com/Take-a-Screenshot-in-Linux) and [Windows](https://www.wikihow.com/Take-a-Screenshot-in-Microsoft-Windows).
 
-    1. Paste your screen shot into a document that breifly describes what you are presenting and includes your name.
+    1. Paste your screen shot into a document that briefly describes what you are presenting and includes your name.
 
     1. Submit your work to the Assignments folder by midnight Sunday.
