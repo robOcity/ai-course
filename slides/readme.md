@@ -8,11 +8,10 @@ cd my_slideshows
 git clone https://github.com/hakimel/reveal.js/
 ```
 
-Generating reveal.js presentations from Jupyter notebooks is also easy using the `nbconvert` utility.  It is included with the [Anaconda Python](https://www.anaconda.com/).  You can check to that it is installed by running `conda list | grep nbconvert`.  Directions on how to use `nbconvert` can be found [here](https://ipython.org/ipython-doc/3/notebook/nbconvert.html) and see the `--to slides` option.  Follow these steps to generate a reveal.js slide deck from a Jupyter notebook.
+Generating reveal.js presentations from Jupyter notebooks is also easy using the `nbconvert` utility.  It is included with the [Anaconda Python](https://www.anaconda.com/).  You can check to that it is installed by running `conda list | grep nbconvert`.  Directions on how to use `nbconvert` can be found [here](https://ipython.org/ipython-doc/3/notebook/nbconvert.html) and see the `--to slides` and `--output-dir='dest_dir'` options.  Follow these steps to generate a reveal.js slide deck from a Jupyter notebook.
 
 ```bash
-jupyter nbconvert --to slides my_notebook.ipynb
-mv my_notebook.slides.html ../my_slideshows
+jupyter nbconvert --to slides --output-dir='.' path-to-slides/my_slides.ipynb
 ```
 
 Finally, just open your newly created HTML file in your browser and revel in your geekiness.
