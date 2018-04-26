@@ -24,7 +24,7 @@
 
     1. Write up a summary of your experience with the Python koans and please include the following short sections:
 
-        1. Heading with your name and the name of this assignment 
+        1. Heading with your name and the name of this assignment
         1. Results - Insert your screenshot here and share your accomplishments
         1. Comments - What aspects of this assignment worked well?  List three koans that you found to be the most challenging.  What constructive suggestions do you have for improving this assignment?
         1. Save as a PDF
