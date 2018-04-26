@@ -2,7 +2,7 @@
 
 1. Motivation: Applying machine learning to improve the performance of artificially intelligent systems.
 
-1. Learning objectivesa
+1. Learning objectives
 
     1. TODO 
 
