@@ -2,7 +2,7 @@
 
 1. Motivation: Continuing examination of machine learning in artificially intelligent systems.
 
-1. Learning objectivesa
+1. Learning objectives
 
     1. TODO
 
