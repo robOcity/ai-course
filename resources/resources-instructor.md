@@ -14,10 +14,12 @@
 
 * [Unofficial Solutions to AIMA 3rd Edition Exercises](https://klutometis.github.io/aima/) - Unofficial solutions to AIMA exercises.
 
+* [MIT OpenCourseWare 6.034 Artificial Intelligence -- Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) -- An outstanding introduction to AI with [video lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi) and other resources.
+
 * [Bloom's Taxonomy](http://www.au.af.mil/au/awc/awcgate/edref/bloom.htm) - Learning Objective Verbs at Each Bloom Taxonomy Level.
 
-* [Presenting Code Using Jupyter Notebook Slides](https://medium.com/@mjspeck/presenting-code-using-jupyter-notebook-slides-a8a3c3b59d67) - Demonstration of the capablities of the Jupyter notebook driven slideshows.
+* [Presenting Code Using Jupyter Notebook Slides](https://medium.com/@mjspeck/presenting-code-using-jupyter-notebook-slides-a8a3c3b59d67) - Demonstration of the capabilities of the Jupyter notebook driven slideshows.
 
-* [Reveal.js - The HTML Presentation Framework](https://revealjs.com/#/) - Demonstration of the capablities of Reveal.js.
+* [Reveal.js - The HTML Presentation Framework](https://revealjs.com/#/) - Demonstration of the capabilities of Reveal.js.
 
 * [Example of a Slideshow Created Using Jupyter Notebook](http://www.slideviper.oquanta.info/tutorial/slideshow_tutorial_slides.html#/) - Demonstration of the features of a Reveal.js slide show.
