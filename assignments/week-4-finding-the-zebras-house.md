@@ -1,4 +1,4 @@
-# Week 4 - Constraint statifaction problem - Finding the zebra's house
+# Week 4 - Constraint stratification problem - Finding the zebra's house
 
 **Solve:** Consider the following logic puzzle: In five houses, each with a different color, live five persons of different nationalities, each of whom prefers a different brand of candy, a different drink, and a different pet. Given the following facts, the questions to answer are “Where does the zebra live, and in which house do they drink water?”  _Solve the problem and post your answer in the Assignments folder._
 
@@ -30,4 +30,4 @@
 
 - Milk is drunk in the middle house.
 
-**Post:** Post your solution to the Assignmetnts folder as a PDF file.  Make sure to include your name on it.
+**Post:** Post your solution to the Assignments folder as a PDF file.  Make sure to include your name on it.
