@@ -10,7 +10,7 @@
 
     1. Compare common approaches to improving the performance of decision trees.
 
-    1. Evaluate model performance.
+    1. Evaluate model performance and how it can be improved through cross-validation and regularization.
 
     1. Understand the tradeoff between bias, variance and model complexity.
 
