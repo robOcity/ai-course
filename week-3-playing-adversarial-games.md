@@ -12,7 +12,7 @@
 
     1. Summarize how and why optimal game play differs from what is practical.
 
-    1. Develop working code that implements two different search algorithms.
+    1. Develop working code that implements a search algorithm.
 
 1. **Readings**
 
