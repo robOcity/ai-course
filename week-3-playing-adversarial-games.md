@@ -30,4 +30,4 @@
 
     1. Discuss:  Programming assignment. Post questions about the assignment here and please offer assistance to others.
 
-    1. Discuss:  Given what you have learned this week, how well do you think that the standard approach described in Chapter 5 -- Adversarial Search to game playing would work for games like tennis, pool, and croquet, which take place in a continuous physical state space?  _Support your answer in your discussion by midnight Wednesday.  Reply to three other students by midnight Sunday._
+    1. Discuss:  Given what you have learned this week, how well do you think that the standard approach described in Chapter 5 -- Adversarial Search to game playing would work for games like tennis, pool, and croquet, which take place in a continuous physical state space?  _Support your position and post your discussion by midnight Wednesday.  Reply to three other students by midnight Sunday._
