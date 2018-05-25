@@ -32,4 +32,4 @@
 
     1. Discuss:  Programming assignment. Post questions about the assignment here and please offer assistance to others.
 
-    1. Please read [Technical challenges in machine ethics](http://robohub.org/technical-challenges-in-machine-ethics/) and illustrate at least two different approaches to addressing ethical concerns in AI.  Can an AI be both logical and ethical?  What duties and obligations does an AI have?
+    1. Read [Technical challenges in machine ethics](http://robohub.org/technical-challenges-in-machine-ethics/) and illustrate at least two different approaches to addressing ethical concerns in AI.  Can an AI be both logical and ethical?  What duties and obligations does an AI have?  _Support your position and post your discussion by midnight Wednesday.  Reply to three other students by midnight Sunday._

@@ -36,4 +36,4 @@
 
     1. Discuss:  Programming assignment. Post any questions you have about the assignment here and please offer assistance to others.
 
-    1. Discuss: Model an uncertain situation you have faced in your life using belief nets.  Make sure to describe the context you faced the goals and preferences that you had.  Create the truth tables and casual diagram for this situation.  Post your diagram as an inline figure in your discussion post.  _Please submit your post by Wednesday evening at midnight and comment on two other students work by Sunday evening at midnight._
+    1. Discuss: Use a Bayesian network to represent an uncertain situation you have faced in your life using belief nets.  Make sure to describe the context you faced the goals and preferences that you had.  Create the truth tables and casual diagram for this situation.  _Post your diagram as an inline figure in your discussion post.  Submit your post by Wednesday evening at midnight and comment on two other students work by Sunday evening at midnight._
