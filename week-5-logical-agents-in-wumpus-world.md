@@ -20,13 +20,13 @@
 
 1. **From the experts**
 
-    1. [Knowledge base agents (logical) and a bit of entailment](https://youtu.be/zOCTxedhf_c)
+    1. Watch -- [Knowledge base agents (logical) and a bit of entailment](https://youtu.be/zOCTxedhf_c)
 
-    1. [Resolution to Evaluate Knowledge Bases](https://youtu.be/rfjSH-RA8So)
+    1. Watch -- [Resolution to Evaluate Knowledge Bases](https://youtu.be/rfjSH-RA8So)
 
-    1. [Models And KBs](https://youtu.be/C0Lcjke494w)
+    1. Watch -- [Models And KBs](https://youtu.be/C0Lcjke494w)
 
-    1. Cite: Francisco Lacobelli, PhD. [AI YouTube Playlist](https://www.youtube.com/playlist?list=PLjTSKEJpqIeDrUYF7DKspT2r9H38vg5dC)
+    1. Cite: Francisco Lacobelli, PhD. [AI YouTube Playlist](https://www.youtube.com/playlist?list=PLjTSKEJpqIeDrUYF7DKspT2r9H38vg5dC). 2015.
 
 1. **Discussion**
 
