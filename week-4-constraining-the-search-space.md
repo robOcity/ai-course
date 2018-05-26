@@ -18,7 +18,7 @@
 
 1. **Readings**
 
-    1. Read Chapter 6 - Constraint Satisfaction Problems (sections)
+    1. Read Chapter 6 - Constraint Satisfaction Problems (all sections)
 
     1. Text: Stuart Russel and Peter Norvig. _Artificial Intelligence: A Modern Approach_ (3rd ed). Prentice-Hall. 2010.
 
