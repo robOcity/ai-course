@@ -1,6 +1,6 @@
 # Week 5 - Logical Agents in Wumpus World
 
-1. **Motivation:**  Introducing first-order logic and applying it to Wumpus World - a simple grid-based hunting game.
+1. **Motivation:**  In exploring a new world, up until now, our agents have relied _entirely_ upon information derived from their current state.  For example the cost and heuristic functions used in best-first-search.  Could we improve our agent's performance by storing knowledge?  If so, how would we represent what has been learned?  In this chapter we are introduced to Wumpus World - a simple grid-based hunting game -- and navigate through it using first-order logic and inference.
 
 1. **Learning objectives**
 
@@ -26,7 +26,7 @@
 
     1. [Models And KBs](https://youtu.be/C0Lcjke494w)
 
-    1. Cite: Francisco Iacobelli, PhD. [AI YouTube Playlist](https://www.youtube.com/playlist?list=PLjTSKEJpqIeDrUYF7DKspT2r9H38vg5dC)
+    1. Cite: Francisco Lacobelli, PhD. [AI YouTube Playlist](https://www.youtube.com/playlist?list=PLjTSKEJpqIeDrUYF7DKspT2r9H38vg5dC)
 
 1. **Discussion**
 
