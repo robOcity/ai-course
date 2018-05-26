@@ -12,4 +12,4 @@
 
 1. Write up up assignment
 
-1. Create solultion
+1. Create solution
