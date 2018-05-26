@@ -20,7 +20,7 @@
 
 1. **From the experts**
 
-    1. [knowledge base agents (logical) and a bit of entailment](https://youtu.be/zOCTxedhf_c)
+    1. [Knowledge base agents (logical) and a bit of entailment](https://youtu.be/zOCTxedhf_c)
 
     1. [Resolution to Evaluate Knowledge Bases](https://youtu.be/rfjSH-RA8So)
 
