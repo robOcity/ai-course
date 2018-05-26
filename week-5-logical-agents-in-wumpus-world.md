@@ -1,12 +1,12 @@
 # Week 5 - Logical Agents in Wumpus World
 
-1. **Motivation:**  In exploring a new world, up until now, our agents have relied _entirely_ upon information derived from their current state.  For example the cost and heuristic functions used in best-first-search.  Could we improve our agent's performance by storing knowledge?  If so, how would we represent what has been learned?  In this chapter we are introduced to Wumpus World - a simple grid-based hunting game -- and navigate through it using first-order logic and inference.
+1. **Motivation:**  In exploring a new world, up until now, our agents have relied _entirely_ upon information derived from their current state.  For example the cost and heuristic functions used in best-first-search.  Could we improve our agent's performance by storing knowledge?  If so, how would we represent what has been learned?  In this chapter we are introduced to Wumpus World - a simple grid-based hunting game -- and navigate through it using propositional logic and inference.
 
 1. **Learning objectives**
 
     1. Construct sentences using propositional logic to represent knowledge.
 
-    1. Produce new knowledge by applying inference rules to what is currently known.
+    1. Produce new knowledge by applying inference rules to what is already known.
 
     1. Illustrate the construction and use of knowledge base to achieve a goal.
 
