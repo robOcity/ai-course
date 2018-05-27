@@ -22,10 +22,14 @@
 
     1. Directions for how to take a screenshot can be found here for [macOS](https://www.wikihow.com/Take-a-Screenshot-on-a-Mac), [Linux](https://www.wikihow.com/Take-a-Screenshot-in-Linux) and [Windows](https://www.wikihow.com/Take-a-Screenshot-in-Microsoft-Windows).
 
-    1. Write up a summary of your experience with the Python koans and please include the following short sections:
+    1. Write up a summary of your experience with the Python koans in a document of two pages or less.  Please include the following sections:
 
-        1. Heading with your name and the name of this assignment
-        1. Results - Insert your screenshot here and share your accomplishments
-        1. Comments - What aspects of this assignment worked well?  List three koans that you found to be the most challenging.  What constructive suggestions do you have for improving this assignment?
-        1. Save as a PDF
-        1. Submit to the assignments folder
+        1. Heading with the name of this assignment, your name and date.
+
+        1. Results - Run the koans, take a screen shot of the results and insert it into your document.
+
+        1. Comments - What aspects of this assignment worked well?  Which were the most challenging?  What would have helped you be better prepared? What suggestions do you have for improving this assignment?
+
+        1. Save as a PDF.
+
+        1. Submit to the assignments folder by midnight Sunday.
