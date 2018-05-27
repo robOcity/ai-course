@@ -1,6 +1,6 @@
 # Week 8 - More Machine Learning Models and Applications
 
-1. Motivation: Continuing examination of machine learning in artificially intelligent systems.
+1. Motivation: Continuing examination of machine learning in artificially intelligent systems.  This week we focus on neural networks and boosting.  
 
 1. Learning objectives
     1. Select models that do not perform well, remove them from consideration and those that are left are good-enough or _probably approximately correct_.

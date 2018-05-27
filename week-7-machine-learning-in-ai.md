@@ -1,6 +1,6 @@
 # Week 7 - Machine Learning in AI
 
-1. Motivation: Applying machine learning to improve the performance of artificially intelligent systems.
+1. Motivation: Imagine trying to program a agent to recognize hand-written numbers, or to predict home prices.  Instead of programming it directly, let's use apply algorithms that learn from the experience.  In this chapter, we will consider machine learning from the perspective of artificial intelligence.  This week we focus on decision trees and ways to improve and evaluate model performance.
 
 1. Learning objectives
 
@@ -12,7 +12,7 @@
 
     1. Evaluate model performance and how it can be improved through cross-validation and regularization.
 
-    1. Understand the tradeoff between bias, variance and model complexity.
+    1. Understand the trade-off between bias, variance and model complexity.
 
 1. Readings
     1. Read Chapter 18 - Learning from Examples (sections 18.1 through 18.4)
@@ -21,9 +21,11 @@
 
 1. From the experts
 
-    1. [Lecture 10: Introduction to Learning, Nearest Neighbors](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-10-introduction-to-learning-nearest-neighbors/)
+    1. Watch -- [Lecture 10: Introduction to Learning, Nearest Neighbors](https://youtu.be/09mb78oiPkA)
 
-    1. [Lecture 11: Learning: Identification Trees, Disorder](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-11-learning-identification-trees-disorder/#vid_playlist)
+    1. Watch -- [Lecture 11: Learning: Identification Trees, Disorder](https://youtu.be/SXBG3RGr_Rc)
+
+    1. Cite: Patrick Winston. 6.034 Artificial Intelligence. Fall 2010. Massachusetts Institute of Technology: MIT OpenCourseWare, [https://ocw.mit.edu](https://ocw.mit.edu). License: Creative Commons BY-NC-SA.
 
 1. Discussion
 
