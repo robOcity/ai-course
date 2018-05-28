@@ -10,4 +10,4 @@
     | x4      | 1  |  1 |  1 |        1 |
     | x5      | 1  |  1 |  0 |        1 |
 
-**Post:** Post your solution to the Assignments folder as a PDF file.  Make sure to include your name on it.
+**Post:** Post your solution to the Assignments folder as a PDF file by Sunday at Midnight.
