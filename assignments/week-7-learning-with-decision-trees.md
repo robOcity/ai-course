@@ -1,6 +1,10 @@
 # Week 7 - Machine Learning - Learning with Decision Trees
 
-**Solve:**  Consider the following data set comprised of three binary input attributes (A1, A2, and A3) and one binary output. Use the algorithm in Figure 18.5 (page 702) to learn a decision tree for these data. Show the computations made to determine the attribute to split at each node.
+**Solve:**
+
+1. Consider the problem e of learning to play tennis (or some other sport with which you are familiar). Is this supervised learning or reinforcement learning?. Explain how this process fits into the general learning model. Describe the percepts and actions of the infant, and the types of learning the infant must do. Describe the subfunctions the infant is trying to learn in terms of inputs and outputs, and available example data.
+
+1. Consider the following data set comprised of three binary input attributes (A1, A2, and A3) and one binary output. Use the algorithm in Figure 18.5 (page 702) to learn a decision tree for these data. Show the computations made to determine the attribute to split at each node.
 
     | Example | A1 | A2 | A3 | Output y |
     | ------: | -: | -: | -: | -------: |
