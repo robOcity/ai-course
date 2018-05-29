@@ -8,7 +8,7 @@
 
     1. Calculate which coin was most likely to have been drawn from the bag if the observed flips come out heads twice and tails once.
 
-1. Two astronomers in different parts of the world make measurements M1 and M2 of the number of stars N in some small region of the sky, using their telescopes. Normally, there is a small possibility e of error by up to one star in each direction. Each telescope can also (with a much smaller probability f) be badly out of focus (events F1 and F2), in which case the scientist will under-count by three or more stars (or if N is less than 3, fail to detect any stars at all). Consider the three networks shown in Figure 14.22.
+1. Two astronomers in different parts of the world make measurements M1 and M2 of the number of stars N in some small region of the sky, using their telescopes. Normally, there is a small possibility e of error by up to one star in each direction. Each telescope can also (with a much smaller probability f) be badly out of focus (events F1 and F2), in which case the scientist will under-count by three or more stars (or if N is less than 3, fail to detect any stars at all). Consider the three networks shown in Figure 14.22.  ![Figure 7.22](../images/Figure-S7-22.png) 
 
     1. Which of these Bayesian networks are correct (but not necessarily efficient) representations of the preceding information?
 
