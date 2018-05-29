@@ -17,7 +17,3 @@
 ## Post
 
 Post your solution to the Assignments folder as a PDF file by Sunday at Midnight.
-
-* TODO - sklearn(http://scikit-learn.org/stable/modules/generate /sklearn.tree.DecisionTreeClassifier.html) and you can also export it as a graphviz: http://scikit-learn org/stable/modules/generated/sklearn.tree export_graphviz.html
-
- 
