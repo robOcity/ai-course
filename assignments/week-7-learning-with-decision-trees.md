@@ -1,6 +1,6 @@
 # Week 7 - Machine Learning - Learning with Decision Trees
 
-**Solve:**
+## Solve
 
 1. Consider the problem e of learning to play tennis (or some other sport with which you are familiar). Is this supervised learning or reinforcement learning?. Explain how this process fits into the general learning model. Describe the percepts and actions of the infant, and the types of learning the infant must do. Describe the subfunctions the infant is trying to learn in terms of inputs and outputs, and available example data.
 
@@ -14,4 +14,6 @@
     | x4      | 1  |  1 |  1 |        1 |
     | x5      | 1  |  1 |  0 |        1 |
 
-**Post:** Post your solution to the Assignments folder as a PDF file by Sunday at Midnight.
+## Post
+
+Post your solution to the Assignments folder as a PDF file by Sunday at Midnight.

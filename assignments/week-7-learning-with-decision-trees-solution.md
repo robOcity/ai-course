@@ -1,6 +1,6 @@
 # Week 7 - Machine Learning - Learning with Decision Trees - Solution
 
-**Solution:**
+## Solutions
 
 1. Learning tennis is much simpler than learning to speak. The requisite skills can be divided into movement, playing strokes, and strategy. The environment consists of the court, ball, opponent, and one’s own body. The relevant sensors are the visual system and proprioception (the sense of forces on and position of one’s own body parts). The effectors are the muscles involved in moving to the ball and hitting the stroke. The  learning process involves both supervised learning and reinforcement learning. Supervised learning occurs in acquiring the predictive transition models, e.g., where the opponent will hit the ball, where the ball will land, and what trajectory the ball will have after one’s own stroke (e.g., if I hit a half-volley this way, it goes into the net, but if I hit it that way, it clears the net). Reinforcement learning occurs when points are won and lost—this is particularly important for strategic aspects of play such as shot placement and positioning (e.g., in 60% of the points where I hit a lob in response to a cross-court shot, I end up losing the point). In the early stages, reinforcement also occurs when a shot succeeds in clearing the net and landing in the opponent’s court. Achieving this small success is itself a sequential process involving many motor control commands, and there is no teacher available to tell the learner’s motor cortex which motor control commands to issue.
 
