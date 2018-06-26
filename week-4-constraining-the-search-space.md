@@ -10,7 +10,7 @@
 
     1. Illustrate how backtracking can be used to solve a CSP.
 
-    1. Contrast differenct approaches used to solve CSPs, such as backtracking and local search.
+    1. Contrast different approaches used to solve CSPs, such as backtracking and local search.
 
     1. Show how the 8-queens problem can be solved using backtracking.
 
@@ -18,7 +18,7 @@
 
 1. **Readings**
 
-    1. Read Chapter 6 - Constraint Satisfaction Problems (sections)
+    1. Read Chapter 6 - Constraint Satisfaction Problems (all sections)
 
     1. Text: Stuart Russel and Peter Norvig. _Artificial Intelligence: A Modern Approach_ (3rd ed). Prentice-Hall. 2010.
 
@@ -36,4 +36,8 @@
 
     1. Discuss:  Programming assignment. Post questions about the assignment here and please offer assistance to others.
 
-    1. Discuss:  Discuss two real world problems that can be described as a CSP.
+    1. Discuss:  Identify two real world problems that can be described as a constraint satisfaction problem (CSP).  If they are relevant to your work, all the better.  _Write at least a paragraph about each describing the problem, how it is modeled and what algorithms are utilized in their solutions by midnight Wednesday_.
+
+1. **Quiz**
+
+    1. Discuss: Explain why it is a good heuristic to choose the variable that is most _constrained_ but the value tat is least _constraining_ in a CSP search.

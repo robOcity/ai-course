@@ -30,4 +30,4 @@
 
 - Milk is drunk in the middle house.
 
-**Post:** Post your solution to the Assignments folder as a PDF file.  Make sure to include your name on it.
+**Post:** Post your solution to the Assignments folder as a PDF file.  Make sure its includes your name on it.  Post it to the Assignments folder by midnight Sunday.

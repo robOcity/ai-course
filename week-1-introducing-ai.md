@@ -53,4 +53,3 @@
         1. Every agent is rational in an unobservable environment.
 
         1. A perfectly rational poker-playing agent never loses.
-        
