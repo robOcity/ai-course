@@ -7,9 +7,9 @@
 
     1. Explain how neural network functions including the neurons, activation function, weights, forward propagation and back propagation.
 
-    1. Summarize the relationship between the number of features in a model and the density of data points. 
+    1. Summarize the relationship between the number of features in a model and the density of data points.
 
-    1. Illustrate boosting improves the performance of decision trees through the use of weak learners and decision stumps.
+    1. Illustrate how boosting improves the performance of decision trees through the use of weak learners and decision stumps.
 
 1. Readings
     1. Read Chapter 18 - Learning from Examples (18.5, 18.6, 18.7, 18.10 and 18.11)
