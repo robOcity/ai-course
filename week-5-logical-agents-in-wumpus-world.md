@@ -1,6 +1,6 @@
 # Week 5 - Logical Agents in Wumpus World
 
-1. **Motivation:**  Humans use knowledge to help understand the world.  In AI, logic languages are used to represent knowledge to machines.  Currently, machines struggle with meaning or semtics of language.  Consider the sentence _"The trophy would not fit in the brown suitcase because it was too big. What was too big?"_.  Humans have no trouble with sentences like this but the very best model can only get %60 of multiple choice questions like this correct.  For machines to improve their performance they need to understand meaning and not simply learn from example.  While the Turing Test focuses on deception, the [Winograd Schema Challenge](http://commonsensereasoning.org/winograd.html) challenges reasoning.  This week we learn how to use propositional logic to represent knowledge for machines.
+1. **Motivation:**  Humans use knowledge to help understand the world.  In AI, logic languages are used to represent knowledge to machines.  Currently, machines struggle with meaning or semantics of language.  Consider the sentence _"The trophy would not fit in the brown suitcase because it was too big. What was too big?"_.  Humans have no trouble with sentences like this but the very best model can only get %60 of multiple choice questions like this correct.  For machines to improve their performance they need to understand meaning and not simply learn from example.  While the Turing Test focuses on deception, the [Winograd Schema Challenge](http://commonsensereasoning.org/winograd.html) challenges reasoning.  This week we learn how to use propositional logic to represent knowledge for machines.
 
 1. **Learning objectives**
 
@@ -20,7 +20,6 @@
     1. Read Chapter 7 - Logical Agents (all sections except 7.6)
 
     1. Text: Stuart Russel and Peter Norvig. _Artificial Intelligence: A Modern Approach_ (3rd ed). Prentice-Hall. 2010.
-
 
 1. **From the experts**
 
