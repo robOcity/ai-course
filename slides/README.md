@@ -18,7 +18,16 @@ Generating reveal.js presentations from Jupyter notebooks is also easy using the
 jupyter nbconvert --to slides --output-dir='.' path-to-slides/my_slides.ipynb
 ```
 
-Finally, just open your newly created HTML file in your browser and revel in your geekiness. **Regrettably, the images you carefully included in your notebooks do not appear in the slideshows**.  As of June 2018, reveal.js only supports displaying svg files. 
+Finally, just open your newly created HTML file in your browser and revel in your geekiness. 
+
+## Getting images to display
+
+If you added images to your notebook using markdown `[description](filename)` you were gravely disappointed with you slidedeck because the images did not appear.  The solution is to use python code rather than markdown for display.  Here the code you need to include. 
+
+'''python
+from IPython.display import Image
+Image(filename)
+'''
 
 ## Creating web pages
 
