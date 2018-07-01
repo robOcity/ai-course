@@ -14,7 +14,7 @@ Hello and welcome to Artificial Intelligence.  By posing the question "Can machi
 
 1. Apply search algorithms to solve problems (Application) --> Week 2
 
-1. Illustrate how utility fucntions, heuristics and pruning improve search efficiency by shrinking the search space (Application) --> Weeks 3 and 4
+2. Illustrate how utility functions, heuristics and pruning improve search efficiency by shrinking the search space (Application) --> Weeks 3 and 4
 
 1. Construct knowledge representations using logic (Synthesis) --> Week 5
 
