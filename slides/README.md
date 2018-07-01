@@ -1,6 +1,7 @@
-#  Creating reveal.js slide decks from a Jupyter notebook using `nbconvert`
+# Creating reveal.js slide decks from a Jupyter notebook using `nbconvert`
 
 ## Generating slidedecks
+
 Reveal.js is a Javascript framework for creating slide presentations in HTML.  Visit [Reveal.js - The HTML Presentation Framework] for an impressive demonstration of its capabilities.  
 
 Get started by creating a you will need to create a directory for your slide shows.  To use it you will need to download a copy from the [Reveal.js github page](https://github.com/hakimel/reveal.js/), and of course `git clone https://github.com/hakimel/reveal.js/` works too.  Your new reveal.js folder should be a subdirectory of you slideshow folder.  It is easy to do, just follow these steps at the command line.
@@ -29,7 +30,7 @@ jupyter nbconvert --to html --output-dir='.' path-to-slides/my_slides.ipynb
 
 ## Making PDFs
 
-Generating PDF documents works too.  
+Generating PDF documents works too. To generate PDF, I found that you had to be in the same folder as your notebook file when you run `jupyter nbconvert`. 
 
 ```bash
 jupyter nbconvert --to pdf --output-dir='.' path-to-slides/my_slides.ipynb
