@@ -36,6 +36,6 @@ Hello and welcome to Artificial Intelligence.  By posing the question "Can machi
 
 1. [Week 6 - Acting in an Uncertain World](./week-6-acting-in-an-uncertain-world.md) - Employing decision theory to eliminate unlikely outcomes from consideration.
 
-1. [Week 7 - Applying Machine Learning I](./week-7-applying-machine-learning-1.md) - Appling machine learning to improve the performance of artificially intelligent systems.
+1. [Week 7 - Applying Machine Learning I](./week-7-applying-machine-learning-1.md) - Applying machine learning to improve the performance of artificially intelligent systems.
 
 1. [Week 8 - Applying Machine Learning II](./week-8-applying-machine-learning-2.md) - Continuing examination of machine learning in artificially intelligent systems.
