@@ -16,6 +16,8 @@
 
 ## Python 3
 
+* [Python Short Course](https://github.com/robOcity/python-short-course) - A set of Jupyter notebooks designed to for those wanting to learn Python or re-familiarize themselves.
+
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/intro/learning/) - A currated list of Python tutorials each with a short description.
 
 * [LearnPython.org](https://www.learnpython.org/) - An interactive introduction Python 3 tutorial.  Like [Python Tutor](http://pythontutor.com/) only with explanations and diagrams.
