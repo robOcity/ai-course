@@ -12,13 +12,13 @@
 
 ## AI Video Tutorials
 
-* [MIT undergraduate AI course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - Excellent lectures and materials from a true expert in the field -- [Patrick Winston](https://people.csail.mit.edu/phw/) teaches AI and CS at MIT, headed the MIT Artificial Intelligence Labratory for 25 years, and started his own company [Ascent Technology](http://www.ascent.com/) that solves complex contstraint satisfaction problems.
+* [MIT undergraduate AI course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - Excellent lectures and materials from a true expert in the field -- [Patrick Winston](https://people.csail.mit.edu/phw/) teaches AI and CS at MIT, headed the MIT Artificial Intelligence Laboratory for 25 years, and started his own company [Ascent Technology](http://www.ascent.com/) that solves complex constraint satisfaction problems.
 
 ## Python 3
 
 * [Python Short Course](https://github.com/robOcity/python-short-course) - A set of Jupyter notebooks designed to for those wanting to learn Python or re-familiarize themselves.
 
-* [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/intro/learning/) - A currated list of Python tutorials each with a short description.
+* [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/intro/learning/) - A curated list of Python tutorials each with a short description.
 
 * [LearnPython.org](https://www.learnpython.org/) - An interactive introduction Python 3 tutorial.  Like [Python Tutor](http://pythontutor.com/) only with explanations and diagrams.
 
@@ -34,7 +34,7 @@
 
 * [Python Tutor](http://pythontutor.com/) - Visualize your Python code at runtime -- an invaluable tool for learning about and debugging issues with Python data structures.  If you are struggling with your code, cut and paste it into Python Tutor and see what is going on.
 
-* [Awesome Python](https://github.com/vinta/awesome-python) - A currated list of the best Python packages by topic.
+* [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of the best Python packages by topic.
 
 ## Podcasts
 
