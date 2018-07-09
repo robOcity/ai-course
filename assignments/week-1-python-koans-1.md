@@ -17,8 +17,6 @@
 
     4. about_control_statements.py
 
-    5. about_statements.py
-
 3. **Submit**
 
     1. To run a single koan `python contemplate_koans.py name_of_koan_without_an_extension`.  For example, here is how to run just the unit-tests in the about_lists.py file:  `python contemplate_koans.py about_lists`.  
