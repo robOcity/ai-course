@@ -17,9 +17,9 @@ During the course of the quiz, if you use an external resource, please site it a
 |             |             |           |         |
 |             |             |           |         |
 |             |             |           |         |
-|             |             |           |         | 
 |             |             |           |         |
-|             |             |           |         | 
+|             |             |           |         |
+|             |             |           |         |
 
 
 
