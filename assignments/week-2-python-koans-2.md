@@ -8,11 +8,9 @@
 
     2. about_dictionaries.py
 
-    3. about_classes.py
+    3. about_comprehensions.py
 
-    4. about_methods.py
-
-    5. about_inheritance.py
+    4. about_classes.py
 
 3. **Submit**
 
