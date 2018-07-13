@@ -1,0 +1,9 @@
+# Discussion Rubric
+
+
+Criteria | None (0) | Good (1) | Better (2)| Best (3)
+---- | ---- | ---- | ---- | ----
+**Significance** | None of the student’s replies are substantive. The replies are not related to the ongoing discussion. The replies do not extend the discussion. | Few of the student’s replies are substantive. The replies repeat what others have said and thus are not integrated in the thread of conversation. The replies are not in student’s own words, but are mere copy of information on sites or in texts. Few include critical thinking questions or comments that generate further discussion. | A good number of the student’s replies are substantive. In most cases, the replies are well connected to the thread of conversation. In most cases, the replies include critical thinking questions and comments that generate significant discussion. | The majority of the student’s posts are substantive. The replies are well integrated with the ongoing discussion. The replies include critical thinking questions and comments and generate significant discussion.
+**Timeliness** | The student posts messages after the sessions are complete, and thus the information cannot be integrated into class discussion. Others do not benefit from such replies. | Few of the messages posted by the student occur when the discussion is still alive and flowing. | Most of the time the student posts messages when the discussion is still alive and flowing. Others can still benefit from the information. | The student always posts his/her messages when the discussion is still alive and flowing.
+**Frequency** | The student’s engagement is lacking, there are no replies. | The student’s engagement is kept to a minimum, one to two short replies per week. | The student’s engagement is medium, with an average number of replies per week. | The student’s engagement is numerous in number per week.
+
