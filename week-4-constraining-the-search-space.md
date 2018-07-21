@@ -30,6 +30,8 @@
 
     1. [Constraints: Visual Object Recognition](https://youtu.be/gvmfbePC2pc)
 
+    1. [Solving Constraint Satisfaction Problems](https://youtu.be/dXTNQmqFo1k)
+
     1. Cite: Patrick Winston. 6.034 Artificial Intelligence. Fall 2010. Massachusetts Institute of Technology: MIT OpenCourseWare, [https://ocw.mit.edu](https://ocw.mit.edu). License: Creative Commons BY-NC-SA.
 
 1. **Discussion**
