@@ -29,6 +29,14 @@
 
 1. Discussion
 
-    1. Consider the problem faced by an infant learning to speak and understand a language.  Explain how this process fits into the general learning model. Describe the precepts and actions of the infant, and the types of learning the infant must do. Describe the subfunctions the infant is trying to learn in terms of inputs and outputs, and available example data.  _Please submit your post by Wednesday evening at midnight and comment on two other students work by Sunday evening at midnight._
+    1. Consider the topics we have covered in the course:
+
+        * Finding solution using search
+        * Applying search to adversarial environments
+        * Solving constraint satisfaction problems
+        * Probabilistic reasoning in uncertain situations
+        * Learning from examples
+
+        Pick one topic, find out who it is being used today, what problems is being applied and by what industries.  Find job openings that are looking for people skilled in this domain.  Where are the jobs, what skill sets are in demand and additional training do you need.  Please write three paragraphs and cite your sources.  _Please submit your post by Wednesday evening at midnight and comment on two other students work by Sunday evening at midnight._
 
     1. Suppose we generate a training set from a decision tree and then apply decision-tree learning to that training set. Is it the case that the learning algorithm will eventually return the correct tree as the training-set size goes to infinity? Why or why not? _Please submit your post by Wednesday evening at midnight and comment on two other students work by Sunday evening at midnight._
