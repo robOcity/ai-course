@@ -1,39 +1,35 @@
-# Week 6 - Acting in an Uncertain World
+# Week 6 - Probabilistic Reasoning
 
 1. **Motivation:** Your favorite band is in town and you have two tickets for tonight's sold out show.  You and your friend are planning to go and want to get something to eat before the show.  Seating is general admission, so you need to arrive with plenty to get a decent seat.  If the concert starts at 8 PM, when do you leave home?  When do you need to arrive at the restaurant and the concert venue?  By the end of this lecture you will be able to create a causality diagram, develop the truth tables to support it, and understand it's basis in probability theory.
 
 1. **Learning objectives**
 
-    1. Describe why logic alone is impractical for modeling real-world problems.
-
-    1. Apply probability theory to develop and simplify causality diagrams.
-
-    1. Combine truth tables and causality diagrams to create probabilistic belief nets.
-
     1. Illustrate how belief nets allow intelligent agents to make better decisions when facing uncertainty.
 
-    1. Estimate probabilities for moves in wumpus world.
+    2. Estimate probabilities for moves for example problems.  
 
-1. **Readings**
-
-    1. Read Chapter 8 - First Order Logic (Sections 8.1 through 8.3)
-
-    1. Read Chapter 13 - Quantifying Uncertainty (Section 13.5)
+2. **Readings**
 
     1. Read Chapter 14 - Probabilistic Reasoning (Sections 14.1 through 14.5)
 
-    1. Text: Stuart Russel and Peter Norvig. _Artificial Intelligence: A Modern Approach_ (3rd ed). Prentice-Hall. 2010.
+    2. Text: Stuart Russel and Peter Norvig. _Artificial Intelligence: A Modern Approach_ (3rd ed). Prentice-Hall. 2010.
 
-1. **From the experts**
+3. **From the experts**
 
-    1. Watch -- [Probabilistic Inference I](https://youtu.be/A6Ud6oUCRak) - Developing the foundations for belief networks with probability theory.
+    1. Watch -- [Probabilistic Inference II](https://youtu.be/EC6bf8JCpDQ) - Using causality diagrams to construct belief networks to deal with uncertainty when making decisions.  _Cite: Patrick Winston. 6.034 Artificial Intelligence. Fall 2010. Massachusetts Institute of Technology: MIT OpenCourseWare, [https://ocw.mit.edu](https://ocw.mit.edu). License: Creative Commons BY-NC-SA._
 
-    1. Watch -- [Probabilistic Inference II](https://youtu.be/EC6bf8JCpDQ) - Using causality diagrams to construct belief networks to deal with uncertainty when making decisions.
+    2. Watch -- [Recitation 9: Bayesian Inference](https://youtu.be/IBHGlFxcAk8) - - Tutorial from 2016 offering of MIT's 6.034 Artificial Intelligence. _cite: Noss, J. (2016, November 30). 6.034 Recitation 9: Bayesian Inference. Retrieved July 28, 2018, from[6.034 Recitation 9: Bayesian Inference](https://www.youtube.com/watch?v=IBHGlFxcAk8&t=3s)_ 
 
-    1. Cite: Patrick Winston. 6.034 Artificial Intelligence. Fall 2010. Massachusetts Institute of Technology: MIT OpenCourseWare, [https://ocw.mit.edu](https://ocw.mit.edu). License: Creative Commons BY-NC-SA.
-
-1. **Discussion**
+4. **Discussion**
 
     1. Discuss:  Programming assignment. Post any questions you have about the assignment here and please offer assistance to others.
 
-    1. Discuss: Use a Bayesian network to represent an uncertain situation you have faced in your life using belief nets.  Make sure to describe the context you faced the goals and preferences that you had.  Create the truth tables and casual diagram for this situation.  _Post your diagram as an inline figure in your discussion post.  Submit your post by Wednesday evening at midnight and comment on two other students work by Sunday evening at midnight._
+    2. Discuss: Consider the topics we have covered in the course:
+
+      * Finding solution using search
+      * Applying search to adversarial environments
+      * Solving constraint satisfaction problems
+      * Probabilistic reasoning in uncertain situations
+      * Learning from examples
+
+      Pick one topic, find out who it is being used today, what problems is being applied and by what industries.  Find job openings that are looking for people skilled in this domain.  Where are the jobs, what skill sets are in demand and additional training do you need.  Please write three paragraphs and cite your sources.  _Please submit your post by Wednesday evening at midnight and read all other students posts by Sunday evening at midnight._
