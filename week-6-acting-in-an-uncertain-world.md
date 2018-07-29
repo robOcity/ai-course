@@ -6,25 +6,25 @@
 
     1. Illustrate how belief nets allow intelligent agents to make better decisions when facing uncertainty.
 
-    2. Estimate probabilities for moves for example problems.  
+    1. Estimate probabilities for moves for example problems.  
 
-2. **Readings**
+1. **Readings**
 
     1. Read Chapter 14 - Probabilistic Reasoning (Sections 14.1 through 14.5)
 
-    2. Text: Stuart Russel and Peter Norvig. _Artificial Intelligence: A Modern Approach_ (3rd ed). Prentice-Hall. 2010.
+    1. Text: Stuart Russel and Peter Norvig. _Artificial Intelligence: A Modern Approach_ (3rd ed). Prentice-Hall. 2010.
 
-3. **From the experts**
+1. **From the experts**
 
     1. Watch -- [Probabilistic Inference II](https://youtu.be/EC6bf8JCpDQ) - Using causality diagrams to construct belief networks to deal with uncertainty when making decisions.  _Cite: Patrick Winston. 6.034 Artificial Intelligence. Fall 2010. Massachusetts Institute of Technology: MIT OpenCourseWare, [https://ocw.mit.edu](https://ocw.mit.edu). License: Creative Commons BY-NC-SA._
 
-    2. Watch -- [Recitation 9: Bayesian Inference](https://youtu.be/IBHGlFxcAk8) - - Tutorial from 2016 offering of MIT's 6.034 Artificial Intelligence. _cite: Noss, J. (2016, November 30). 6.034 Recitation 9: Bayesian Inference. Retrieved July 28, 2018, from[6.034 Recitation 9: Bayesian Inference](https://www.youtube.com/watch?v=IBHGlFxcAk8&t=3s)_ 
+    1. Watch -- [Recitation 9: Bayesian Inference](https://youtu.be/IBHGlFxcAk8) - - Tutorial from 2016 offering of MIT's 6.034 Artificial Intelligence. _cite: Noss, J. (2016, November 30). 6.034 Recitation 9: Bayesian Inference. Retrieved July 28, 2018, from[6.034 Recitation 9: Bayesian Inference](https://www.youtube.com/watch?v=IBHGlFxcAk8&t=3s)_ 
 
-4. **Discussion**
+1. **Discussion**
 
     1. Discuss:  Programming assignment. Post any questions you have about the assignment here and please offer assistance to others.
 
-    2. Discuss: Consider the topics we have covered in the course:
+    1. Discuss: Consider the topics we have covered in the course:
 
       * Finding solution using search
       * Applying search to adversarial environments
