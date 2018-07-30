@@ -18,7 +18,7 @@
 
     1. Illustrate how belief nets allow intelligent agents to make better decisions when facing uncertainty.
 
-    2. Estimate probabilities for moves for example problems.
+    2. Estimate probabilities for moves for environments such as Wumpus World.
 
 3. **Readings**
 
