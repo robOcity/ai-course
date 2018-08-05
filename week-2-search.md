@@ -44,7 +44,7 @@
 
     3. Discuss: Autonomous vehicle safety: On a warm Sunday night in Tempe Arizona, Elaine Herzberg was walking her bike across a street. Maybe she thought that the car approaching car would slow, or change lanes. The driver behind the wheel was alert but was simply there to keep an eye on the artificial intelligence (AI) that was in control of the car. An array of sensors fed streams of data to the AI as it drove cautiously through the night at 5 MPH below the posted speed limit. Tragically, none of the participants involved in this accident were able to prevent it.  Moments later -- having been hit by a vehicle moving at 40 MPH -- Elaine Herzberg lay dying on the side of the road.
 
-    4. _Respond to the following prompts by midnight Wednesday and by midnight Sunday.  Please share your respectful thoughts on three other student's responses._
+    4. _Respond to the following prompts by midnight Wednesday and by midnight Sunday.  Please share your respectful thoughts with two other student's responses._
 
         1. Which of the participants is responsible for this tragic accident?
 
