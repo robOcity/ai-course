@@ -4,8 +4,6 @@
 
 * [Website for Artificial Intelligence: A Modern Approach (AIMA)](http://aima.cs.berkeley.edu/) - Supporting materials for students and instructors.
 
-* [AIMA Datasets](https://github.com/aimacode/aima-data) - Github repository of data sets used in the text.
-
 * [AIMA Glossary](https://github.com/aimacode/aima-glossary) - Glossary of terms used in the text.
 
 ## AI Video Tutorials
