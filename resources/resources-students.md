@@ -4,19 +4,19 @@
 
 * [Website for Artificial Intelligence: A Modern Approach (AIMA)](http://aima.cs.berkeley.edu/) - Supporting materials for students and instructors.
 
-* [AIMA algorithm implementations in Python](https://github.com/aimacode/aima-python) - Github repository of Python code and Jupyter notebooks implementing algorithms from the text.
-
 * [AIMA Datasets](https://github.com/aimacode/aima-data) - Github repository of data sets used in the text.
 
 * [AIMA Glossary](https://github.com/aimacode/aima-glossary) - Glossary of terms used in the text.
 
 ## AI Video Tutorials
 
-* [MIT undergraduate AI course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - Excellent lectures and materials from a true expert in the field -- [Patrick Winston](https://people.csail.mit.edu/phw/) teaches AI and CS at MIT, headed the MIT Artificial Intelligence Laboratory for 25 years, and started his own company [Ascent Technology](http://www.ascent.com/) that solves complex constraint satisfaction problems.
+* [MIT undergraduate AI course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - Inspiring lectures and curated materials from a true experts in the field.
+
+  * [Tutorials](https://www.youtube.com/playlist?list=PLxymR0ZPfMmV-vGtvhvTeWHIcnh-bTjDI) - Learn the essential skill applying problem solving algorithms by hand.  Only then are you ready to start coding.  Not only does Jessica Noss have the best explanations but her tutorials have the sound and video quality too. 
+  
+  * [Instructor: Patrick Winston](https://people.csail.mit.edu/phw/) teaches AI and CS at MIT, headed the MIT Artificial Intelligence Laboratory for 25 years, and started his own company [Ascent Technology](http://www.ascent.com/) that solves complex constraint satisfaction problems.
 
 ## Python 3
-
-* [Python Short Course](https://github.com/robOcity/python-short-course) - A set of Jupyter notebooks designed to for those wanting to learn Python or re-familiarize themselves.
 
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/intro/learning/) - A curated list of Python tutorials each with a short description.
 
@@ -38,12 +38,10 @@
 
 ## Podcasts
 
-* [Talk Python to Me](https://talkpython.fm/) - Interviews of notable developers and authors in the Python community including those active in the AI and the data science space.
+* [AI in Industry](https://emerj.com/ai-podcast-interviews/) - Accessible interviews with executives and researchers on current and near-term uses of the application of AI in various business sectors.
 
-* [Python Bytes](https://pythonbytes.fm/) - A concise weekly podcast of Python community news.
+* [Talking Machines](https://www.thetalkingmachines.com/) - A view into cutting edge research in the world of AI and machine learning.  
 
-* [Linear Digressions](http://lineardigressions.com/) - A conversational exploration of topics in data science.
-
-* [Data Sceptic](https://dataskeptic.com/) - Data science, statistics, machine learning, artificial intelligence, and scientific skepticism.
+* [Data Science at Home](https://podcast.datascienceathome.com/) - Concepts in AI and machine learning explained and applications illustrated.
 
 * [Partially Derivative](http://partiallyderivative.com/) - "Partially Derivative is a podcast about data science in the world around us" including a number of episodes on AI.
