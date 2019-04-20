@@ -1,1 +1,2 @@
-pyyaml==5.1
+pyyaml>=5.1
+notebook>=5.7.8
