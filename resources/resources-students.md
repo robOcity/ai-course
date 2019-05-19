@@ -19,6 +19,8 @@
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/intro/learning/) - A curated list of Python tutorials each with a short description.
 
 * [LearnPython.org](https://www.learnpython.org/) - An interactive introduction Python 3 tutorial.  Like [Python Tutor](http://pythontutor.com/) only with explanations and diagrams.
+  
+* [Sorcratica Python Programming Tutorials](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-) - Excellent introduction to python programming in short well-produced videos with a matrix vibe.  Highly recommended.
 
 * [Let's learn Python 3 in your PJ's](https://youtu.be/7t_Zjh1pXgY) - Introductory video tutorial on Python 3 for beginners.
 
