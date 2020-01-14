@@ -18,6 +18,8 @@
 
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/intro/learning/) - A curated list of Python tutorials each with a short description.
 
+* [Python Tutor](http://pythontutor.com/) - Visualize your Python code at runtime -- an invaluable tool for learning about and debugging issues with Python data structures.  If you are struggling with your code, cut and paste it into Python Tutor and see what is going on.
+
 * [LearnPython.org](https://www.learnpython.org/) - An interactive introduction Python 3 tutorial.  Like [Python Tutor](http://pythontutor.com/) only with explanations and diagrams.
   
 * [Sorcratica Python Programming Tutorials](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-) - Excellent introduction to python programming in short well-produced videos with a matrix vibe.  Highly recommended.
@@ -26,15 +28,9 @@
 
 * [Python 3 Tutorial](https://www.python-course.eu/python3_course.php) - An intermediate tutorial for Python 3
 
-* [pyvideo](http://pyvideo.org/) - Talks and tutorials from all recent Python conferences. A great resource for learning Python.
-
 * [Think Python](http://greenteapress.com/wp/think-python-2e/) - An excellent introduction to Python3 for beginners that is freely available online, if you like it, consider buying a physical copy.
 
 * [Dive into Python 3](http://www.diveintopython3.net/) - Another outstanding free online textbook, only this one is for experienced programmers. Again if you like it consider buying a copy.
-
-* [Python Tutor](http://pythontutor.com/) - Visualize your Python code at runtime -- an invaluable tool for learning about and debugging issues with Python data structures.  If you are struggling with your code, cut and paste it into Python Tutor and see what is going on.
-
-* [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of the best Python packages by topic.
 
 ## Podcasts
 
@@ -42,6 +38,6 @@
 
 * [Talking Machines](https://www.thetalkingmachines.com/) - A view into cutting edge research in the world of AI and machine learning.  
 
-* [Data Science at Home](https://podcast.datascienceathome.com/) - Concepts in AI and machine learning explained and applications illustrated.
-
 * [Partially Derivative](http://partiallyderivative.com/) - "Partially Derivative is a podcast about data science in the world around us" including a number of episodes on AI.
+
+* [Talk Python to Me](https://talkpython.fm/) - Interviews with developers in the Python space about their projects and technology choices behind them.
