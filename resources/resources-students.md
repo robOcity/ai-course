@@ -16,7 +16,7 @@
 
 ## Python 3
 
-* [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/intro/learning/) - A curated list of Python tutorials each with a short description.
+* [Real Python](https://realpython.com/) - Accessible and well written tutorials on a wide-variety of relevant Python topics.  More coming every day.  Highly recommended.  
 
 * [Python Tutor](http://pythontutor.com/) - Visualize your Python code at runtime -- an invaluable tool for learning about and debugging issues with Python data structures.  If you are struggling with your code, cut and paste it into Python Tutor and see what is going on.
 
@@ -31,6 +31,8 @@
 * [Think Python](http://greenteapress.com/wp/think-python-2e/) - An excellent introduction to Python3 for beginners that is freely available online, if you like it, consider buying a physical copy.
 
 * [Dive into Python 3](http://www.diveintopython3.net/) - Another outstanding free online textbook, only this one is for experienced programmers. Again if you like it consider buying a copy.
+
+* [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/intro/learning/) - A curated list of Python tutorials each with a short description.
 
 ## Podcasts
 
