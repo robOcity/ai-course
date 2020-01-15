@@ -16,7 +16,9 @@
 
 ## Python 3
 
-* [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/intro/learning/) - A curated list of Python tutorials each with a short description.
+Python is a general purpose programming language with strengths in data science and web development.  
+
+* [Real Python](https://realpython.com/) - Accessible and well written tutorials on a wide-variety of relevant Python topics.  More coming every day.  Highly recommended.  
 
 * [Python Tutor](http://pythontutor.com/) - Visualize your Python code at runtime -- an invaluable tool for learning about and debugging issues with Python data structures.  If you are struggling with your code, cut and paste it into Python Tutor and see what is going on.
 
@@ -32,12 +34,27 @@
 
 * [Dive into Python 3](http://www.diveintopython3.net/) - Another outstanding free online textbook, only this one is for experienced programmers. Again if you like it consider buying a copy.
 
-## Podcasts
 
-* [AI in Industry](https://emerj.com/ai-podcast-interviews/) - Accessible interviews with executives and researchers on current and near-term uses of the application of AI in various business sectors.
+## Markdown Text
+
+Markdown is an easy-to-read, easy-to-write syntax for formatting plain text.
+
+1. [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - Learn markdown quickly and easily with this guide from Github.
+
+1. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - A concise guide to markdown syntax and its resulting appearance.
+
+## Command Line
+
+Coding involves using the command line and learning how is made easy these great tutorials.
+
+1. [Djanjo Girls Command Line Tutorial](https://tutorial.djangogirls.org/en/intro_to_command_line/) - An accessible introduction to the command line for Windows, MacOS, and Linux.
+
+1. [Briana's Bash Tutorial: How to Use the Command Line in Linux, Windows, and Mac](https://youtu.be/BFMyUgF6I8Y) - A introductory tutorial video into learning commands commonly used in software development.  The first 5 minutes explains most of what you need to know for coding.  Text editors and colorizing your terminal is covered too.
+
+## Podcasts
 
 * [Talking Machines](https://www.thetalkingmachines.com/) - A view into cutting edge research in the world of AI and machine learning.  
 
-* [Partially Derivative](http://partiallyderivative.com/) - "Partially Derivative is a podcast about data science in the world around us" including a number of episodes on AI.
+* [Partially Derivative](http://partiallyderivative.com/) - "Partially Derivative is a podcast about data science in the world around us" including a number of episodes on AI.  While no new episodes are being produced, existing ones are well worth listening to.
 
 * [Talk Python to Me](https://talkpython.fm/) - Interviews with developers in the Python space about their projects and technology choices behind them.
