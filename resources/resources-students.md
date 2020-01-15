@@ -16,8 +16,6 @@
 
 ## Python 3
 
-Python is a general purpose programming language with strengths in data science and web development.  
-
 * [Real Python](https://realpython.com/) - Accessible and well written tutorials on a wide-variety of relevant Python topics.  More coming every day.  Highly recommended.  
 
 * [Python Tutor](http://pythontutor.com/) - Visualize your Python code at runtime -- an invaluable tool for learning about and debugging issues with Python data structures.  If you are struggling with your code, cut and paste it into Python Tutor and see what is going on.
@@ -34,6 +32,7 @@ Python is a general purpose programming language with strengths in data science 
 
 * [Dive into Python 3](http://www.diveintopython3.net/) - Another outstanding free online textbook, only this one is for experienced programmers. Again if you like it consider buying a copy.
 
+* [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/intro/learning/) - A curated list of Python tutorials each with a short description.
 
 ## Markdown Text
 
