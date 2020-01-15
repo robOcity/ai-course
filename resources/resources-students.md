@@ -16,6 +16,8 @@
 
 ## Python 3
 
+* [Python Short Course](https://github.com/robOcity/python-short-course.git) - Get started quickly with modern Python. These materials are optional, and intended to get you up to speed for Python-based courses at Regis University.
+
 * [Real Python](https://realpython.com/) - Accessible and well written tutorials on a wide-variety of relevant Python topics.  More coming every day.  A highly recommended site.
 
 * [Python Tutor](http://pythontutor.com/) - Visualize your Python code at runtime -- an invaluable tool for learning about and debugging issues with Python data structures.  If you are struggling with your code, cut and paste your code into Python Tutor to better understand why it is behaving like it is.  Python Tutor is especially valuable in understanding Python data structures.
