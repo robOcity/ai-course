@@ -16,7 +16,7 @@
 
 ## Python 3
 
-* [Python Short Course](https://github.com/robOcity/python-short-course.git) - Get started quickly with modern Python. These materials are optional, and intended to get you up to speed for Python-based courses at Regis University.
+* [Python Short Course](https://github.com/robOcity/python-short-course) - Get started quickly with modern Python. These materials are optional, and intended to get you up to speed for Python-based courses at Regis University.
 
 * [Real Python](https://realpython.com/) - Accessible and well written tutorials on a wide-variety of relevant Python topics.  More coming every day.  A highly recommended site.
 
