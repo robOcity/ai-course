@@ -45,17 +45,9 @@ __function__ MIN\-VALUE(_state_, _&alpha;_, _&beta;_) __returns__ _a utility val
 
 ## Problems
 
-Apply the minimax algrothm to the game tree below.  Assume _max_ is currently taking its turn.  
+Apply the minimax algrothm to the game tree below.  Assume _max_ is currently taking its turn.  What sequence of moves should _max_ choose?  What many points will _max_ get?  
 
-* What sequence of moves should _max_ choose?  
-
-* What many points will _max_ get?  
-
-Now, apply the alpha-beta algorithm.
-
-* Do you get the same result?
-
-* How many nodes did you not have to evaluate?
+Now, apply the alpha-beta algorithm.  Do you get the same result?  How many nodes did you not have to evaluate?
 
 ---
 
