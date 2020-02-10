@@ -6,11 +6,11 @@
 
 * [AIMA Glossary](https://github.com/aimacode/aima-glossary) - Glossary of terms used in the text.
 
-* [AIMA Visualizations](http://aimacode.github.io/aima-javascript/) - Run and visualize AI algorithms in our text.
+* [AIMA Visualizations](http://aimacode.github.io/aima-javascript/) - Run and visualize AI algorithms.
 
 ## AI Video Tutorials
 
-* [MIT undergraduate AI course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - Inspiring lectures and curated materials from a true expert in the field.
+* [MIT undergraduate AI course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - Inspiring lectures and curated materials from a real expert in the field.
 
   * [Tutorials](https://www.youtube.com/playlist?list=PLxymR0ZPfMmV-vGtvhvTeWHIcnh-bTjDI) - Inform your understanding of algorithms by solving problems hand.  Only when you understand how an algorithm works and can demonstrate it to others, are you ready to start coding. Not only does Jessica Noss have the best explanations.  Her tutorials have the best sound and video quality too.  
   
@@ -20,7 +20,7 @@
 
 * [Python Short Course](https://github.com/robOcity/python-short-course) - Get started quickly with modern Python. These materials are optional, and intended to get you up to speed for Python-based courses at Regis University.
 
-* [Real Python](https://realpython.com/) - Accessible and well written tutorials on a wide-variety of relevant Python topics.  More coming every day.  A highly recommended site.
+* [Real Python](https://realpython.com/) - Accessible and well-written tutorials on a wide variety of relevant Python topics.  More coming every day.  A highly recommended site.
 
 * [Python Tutor](http://pythontutor.com/) - Visualize your Python code at runtime -- an invaluable tool for learning about and debugging issues with Python data structures.  If you are struggling with your code, cut and paste your code into Python Tutor to better understand why it is behaving like it is.  Python Tutor is especially valuable in understanding Python data structures.
 
@@ -52,7 +52,7 @@ Coding involves using the command line and learning how is made easy these great
 
 1. [Djanjo Girls Command Line Tutorial](https://tutorial.djangogirls.org/en/intro_to_command_line/) - An accessible introduction to the command line for Windows, macOS, and Linux.
 
-1. [Briana's Bash Tutorial: How to Use the Command Line in Linux, Windows, and Mac](https://youtu.be/BFMyUgF6I8Y) - An introductory tutorial video into learning commands commonly used in software development.  The first 5 minutes explains most of what you need to know for coding.  Text editors and colorizing your terminal are covered too.
+1. [Briana's Bash Tutorial: How to Use the Command Line in Linux, Windows, and Mac](https://youtu.be/BFMyUgF6I8Y) - Watch a short tutorial video showing how to use the command line for coding tasks.  The first 5 minutes explains most of what you need to know for coding.  Text editors and colorizing your terminal are covered too.
 
 ## Podcasts
 
