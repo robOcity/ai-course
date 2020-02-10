@@ -6,6 +6,8 @@
 
 * [AIMA Glossary](https://github.com/aimacode/aima-glossary) - Glossary of terms used in the text.
 
+* [AIMA Visualizations](http://aimacode.github.io/aima-javascript/) - Run and visualize AI algorithms in our text.
+
 ## AI Video Tutorials
 
 * [MIT undergraduate AI course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - Inspiring lectures and curated materials from a true expert in the field.
