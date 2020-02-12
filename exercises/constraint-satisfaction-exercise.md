@@ -10,6 +10,7 @@ Use your knowledge of solving constraint satisfaction problems to answer questio
 1. Which pokemon is the fastest?    &nbsp;&nbsp;&nbsp;&nbsp; A, B, C, D, E
 1. Which pokemon is the footprint?  &nbsp; A, B, C, D, E
 
+
 ## Constraints
 
 Here is what we know about each pokemon and their relations.
@@ -43,10 +44,10 @@ _Which pokemon is the most constrained?_ &nbsp; 1, 2, 3, 4, 5
 
 ## Searching for Answers
 
-Find answers to the questions that are consistent with the constraints.
+Find answers to the questions that are consistent with the constraints by constructing a search tree.  Making sure that you:
 
 * Assign answers to question while not violating any constraints.
-* Questions can have the same answer.
+* Know that questions can have the same answer.
 * Search in alphabetic order.
 
 _Use __Depth First Search__ only check constraints after assignment and do not perform constraint propagation._
