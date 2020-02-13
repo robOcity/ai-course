@@ -13,7 +13,7 @@ Use your knowledge of solving constraint satisfaction problems to answer questio
 
 ## Constraints
 
-Here is what we know about each pokemon and their relations.
+Here is what we know about each pokemon and their domains.
 
 * 1 cannot be D
 * 2, 3 and 4 cannot be A or E
@@ -36,7 +36,7 @@ We also know that:
 * The shortest pokemon is neither the heaviest nor the fastest.
 * The footprint belongs to the fastest pokemon.
 
-Draw the constraint graph.
+_Draw the constraint graph._
 
 ![pokemon constraint graph](images/csp-pokemon-problem.png)
 
@@ -48,7 +48,7 @@ Find answers to the questions that are consistent with the constraints by constr
 
 * Assign answers to question while not violating any constraints.
 * Know that questions can have the same answer.
-* Search in alphabetic order.
+* Search in numeric order.
 
 _Use __Depth First Search__ only check constraints after assignment and do not perform constraint propagation._
 
