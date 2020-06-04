@@ -1,0 +1,19 @@
+graph "graph-with-labels" {
+	subgraph Legend {
+		Max [label=<<B>Max</B>>]
+		Min [label=<<B>Min</B>> color=grey]
+	}
+	A [label=<<B>A</B>>]
+	B [label=<<B>B</B>> color=grey]
+	C [label=<<B>C</B>> color=grey]
+	D [label=<<B>D</B> <SUB>8</SUB>>]
+	E [label=<<B>E</B> <SUB>2</SUB>>]
+	F [label=<<B>F</B> <SUB>6</SUB>>]
+	G [label=<<B>G</B> <SUB>8</SUB>>]
+	A -- B
+	A -- C
+	B -- D
+	B -- E
+	C -- F
+	C -- G
+}
