@@ -2,11 +2,11 @@
 
 ## Artificial Intelligence
 
-* [Website for Artificial Intelligence: A Modern Approach (AIMA)](http://aima.cs.berkeley.edu/) - Supporting materials for students and instructors.
+* [Artificial Intelligence: Foundations of Computational Agents (2nd Ed)](http://artint.info/) - Our online course textbook.  Please consider supporting the generous authors and your future applications by buying a physical copy from [The Tattered Cover Book Store](https://www.tatteredcover.com/book/9781107195394) or [Amazon](https://www.amazon.com/Artificial-Intelligence-Foundations-Computational-Agents/dp/110719539X/)
 
-* [AIMA Glossary](https://github.com/aimacode/aima-glossary) - Glossary of terms used in the text.
+* [AISpace2](https://aispace2.github.io/AISpace2/) - Tools for learning and understanding.  These Jupyter notebooks are essential in understanding the material presented in this course.  Please follow the instructions on the [Install page](https://aispace2.github.io/AISpace2/install.html) to run these tutorial notebooks.
 
-* [AIMA Visualizations](http://aimacode.github.io/aima-javascript/) - Run and visualize AI algorithms.
+* [AIPython: Python Code for AIFCA](https://artint.info/AIPython/) - Python code demonstrating how AI algorithms are implemented using AISpace2.
 
 ## AI Video Tutorials
 
@@ -32,8 +32,6 @@
 
 * [Python 3 Tutorial](https://www.python-course.eu/python3_course.php) - An intermediate tutorial for Python 3
 
-* [Think Python](http://greenteapress.com/wp/think-python-2e/) - An excellent introduction to Python3 for beginners that is freely available online, if you like it, consider buying a physical copy.
-
 * [Dive into Python 3](http://www.diveintopython3.net/) - Another outstanding free online textbook, only this one is for experienced programmers. Again if you like it consider buying a copy.
 
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/intro/learning/) - A curated list of Python tutorials each with a short description.
@@ -50,7 +48,7 @@ Markdown is an easy-to-read, easy-to-write syntax for formatting plain text.
 
 Coding involves using the command line and learning how is made easy these great tutorials.
 
-1. [Djanjo Girls Command Line Tutorial](https://tutorial.djangogirls.org/en/intro_to_command_line/) - An accessible introduction to the command line for Windows, macOS, and Linux.
+1. [Django Girl's Command Line Tutorial](https://tutorial.djangogirls.org/en/intro_to_command_line/) - An accessible introduction to the command line for Windows, macOS, and Linux.
 
 1. [Briana's Bash Tutorial: How to Use the Command Line in Linux, Windows, and Mac](https://youtu.be/BFMyUgF6I8Y) - Watch a short tutorial video showing how to use the command line for coding tasks.  The first 5 minutes explains most of what you need to know for coding.  Text editors and colorizing your terminal are covered too.
 
@@ -58,6 +56,4 @@ Coding involves using the command line and learning how is made easy these great
 
 * [Talking Machines](https://www.thetalkingmachines.com/) - A view into cutting edge research in the world of AI and machine learning.  
 
-* [Partially Derivative](http://partiallyderivative.com/) - "Partially Derivative is a podcast about data science in the world around us" including many episodes on AI.  Existing episodes are well worth listening to; regrettably, no new ones are coming.
-
-* [Talk Python to Me](https://talkpython.fm/) - Interviews with developers in the Python space about their projects and technology choices behind them.
+* [The best 10 Artificial Intelligence podcasts (2020)](https://medium.com/analytics-vidhya/the-best-10-artificial-intelligence-podcasts-2020-a-i-5b7e39502ab2) - Discussing AI, it's applications and innovator's for the curious.  
