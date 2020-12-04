@@ -2,31 +2,31 @@
 
 ## Artificial Intelligence
 
-* [Artificial Intelligence: Foundations of Computational Agents (2nd Ed)](http://artint.info/) - Our online course textbook.  Please consider supporting the generous authors and your future applications by buying a physical copy from [The Tattered Cover Book Store](https://www.tatteredcover.com/book/9781107195394) or [Amazon](https://www.amazon.com/Artificial-Intelligence-Foundations-Computational-Agents/dp/110719539X/)
+* [Artificial Intelligence: Foundations of Computational Agents (AIFCA 2nd Ed)](http://artint.info/) - Our online course textbook.  Please consider supporting the generous authors and your future applications by buying a physical copy from [The Tattered Cover Book Store](https://www.tatteredcover.com/book/9781107195394) or [Amazon](https://www.amazon.com/Artificial-Intelligence-Foundations-Computational-Agents/dp/110719539X/)
 
 * [AISpace2](https://aispace2.github.io/AISpace2/) - Tools for learning and understanding.  These Jupyter notebooks are essential in understanding the material presented in this course.  Please follow the instructions on the [Install page](https://aispace2.github.io/AISpace2/install.html) to run these tutorial notebooks.
 
-* [AIPython: Python Code for AIFCA](https://artint.info/AIPython/) - Python code demonstrating how AI algorithms are implemented using AISpace2.
+* [AIPython: Python Code for AIFCA](https://artint.info/AIPython/) - Demonstrates how to implement AI algorithms using Python 3 and the AISpace2 package.
 
 ## AI Video Tutorials
 
 * [MIT undergraduate AI course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - Inspiring lectures and curated materials from a real expert in the field.
 
-  * [Tutorials](https://www.youtube.com/playlist?list=PLxymR0ZPfMmV-vGtvhvTeWHIcnh-bTjDI) - Inform your understanding of algorithms by solving problems hand.  Only when you understand how an algorithm works and can demonstrate it to others, are you ready to start coding. Not only does Jessica Noss have the best explanations.  Her tutorials have the best sound and video quality too.  
+  * [Tutorials](https://www.youtube.com/playlist?list=PLxymR0ZPfMmV-vGtvhvTeWHIcnh-bTjDI) - Inform your understanding of algorithms by solving problems hand.  Only when you understand how an algorithm works and can demonstrate it to others are you ready to start coding. Not only does Jessica Noss have the best explanations.  Her tutorials have the best sound and video quality too.  
   
   * [Instructor: Patrick Winston](https://people.csail.mit.edu/phw/) teaches AI and CS at MIT, headed the MIT Artificial Intelligence Laboratory for 25 years, and started his own company [Ascent Technology](http://www.ascent.com/) that solves complex constraint satisfaction problems.
 
 ## Python 3
 
-* [Python Short Course](https://github.com/robOcity/python-short-course) - Get started quickly with modern Python. These materials are optional, and intended to get you up to speed for Python-based courses at Regis University.
+* [Python Short Course](https://github.com/robOcity/python-short-course) - Get started quickly with modern Python. These materials are optional and intended to get you up to speed for Python-based courses at Regis University.
 
 * [Real Python](https://realpython.com/) - Accessible and well-written tutorials on a wide variety of relevant Python topics.  More coming every day.  A highly recommended site.
 
-* [Python Tutor](http://pythontutor.com/) - Visualize your Python code at runtime -- an invaluable tool for learning about and debugging issues with Python data structures.  If you are struggling with your code, cut and paste your code into Python Tutor to better understand why it is behaving like it is.  Python Tutor is especially valuable in understanding Python data structures.
+* [Python Tutor](http://pythontutor.com/) - Visualize your Python code at runtime -- an invaluable tool for learning about and debugging issues with Python data structures.  If you are struggling with your code, cut and paste your code into Python Tutor to better understand why it behaves like it is.  Python Tutor is especially valuable in understanding Python data structures.
 
 * [LearnPython.org](https://www.learnpython.org/) - An interactive introduction Python 3 tutorial.  Like [Python Tutor](http://pythontutor.com/) only with explanations and diagrams.
   
-* [Sorcratica Python Programming Tutorials](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-) - Excellent introduction to python programming in short well-produced videos with a matrix vibe.  A highly recommended site.
+* [Sorcratica Python Programming Tutorials](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-) - Excellent introduction to python programming, in short, well-produced videos with a matrix vibe.  A highly recommended site.
 
 * [Let's learn Python 3 in your PJ's](https://youtu.be/7t_Zjh1pXgY) - Introductory video tutorial on Python 3 for beginners.
 
@@ -34,7 +34,7 @@
 
 * [Dive into Python 3](http://www.diveintopython3.net/) - Another outstanding free online textbook, only this one is for experienced programmers. Again if you like it consider buying a copy.
 
-* [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/intro/learning/) - A curated list of Python tutorials each with a short description.
+* [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/intro/learning/) - A curated list of Python tutorials, each with a short description.
 
 ## Markdown Text
 
@@ -46,7 +46,7 @@ Markdown is an easy-to-read, easy-to-write syntax for formatting plain text.
 
 ## Command Line
 
-Coding involves using the command line and learning how is made easy these great tutorials.
+Coding involves using the command line and learning how it is made easy in these great tutorials.
 
 1. [Django Girl's Command Line Tutorial](https://tutorial.djangogirls.org/en/intro_to_command_line/) - An accessible introduction to the command line for Windows, macOS, and Linux.
 
@@ -56,4 +56,4 @@ Coding involves using the command line and learning how is made easy these great
 
 * [Talking Machines](https://www.thetalkingmachines.com/) - A view into cutting edge research in the world of AI and machine learning.  
 
-* [The best 10 Artificial Intelligence podcasts (2020)](https://medium.com/analytics-vidhya/the-best-10-artificial-intelligence-podcasts-2020-a-i-5b7e39502ab2) - Discussing AI, it's applications and innovator's for the curious.  
+* [The best 10 Artificial Intelligence podcasts (2020)](https://medium.com/analytics-vidhya/the-best-10-artificial-intelligence-podcasts-2020-a-i-5b7e39502ab2) - Discussing AI, it's applications, and it's innovators for the curious.  
