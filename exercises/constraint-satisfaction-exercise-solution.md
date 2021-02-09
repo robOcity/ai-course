@@ -39,7 +39,7 @@ _Draw the constraint graph._
 
 ![pokemon constraint graph](images/csp-pokemon-solution.png)
 
-_Which pokemon is the most constrained?_ &nbsp; 1, 2, 3, __4__, 5
+_Which pokemon is the most constrained?_ &nbsp; __4__
 
 ## Searching for Answers
 
