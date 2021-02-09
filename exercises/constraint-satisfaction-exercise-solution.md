@@ -22,11 +22,11 @@ _Fill out the domain table of possible values for each pokemon._
 
 | Pokemon | A | B | C | D | E |
 |---------|---|---|---|---|---|
-| 1       |   |   |   |   |   |
-| 2       |   |   |   |   |   |
-| 3       |   |   |   |   |   |
-| 4       |   |   |   |   |   |
-| 5       |   |   |   |   |   |
+| 1       | A  | B  |  C |   |  E |
+| 2       |   |  B | C  | D  |   |
+| 3       |   |  B | C  | D  |   |
+| 4       |   |  B | C  | D  |   |
+| 5       | A  | B  | C  |   |   |
 
 We also know that:
 
@@ -37,9 +37,9 @@ We also know that:
 
 _Draw the constraint graph._
 
-![pokemon constraint graph](images/csp-pokemon-problem.png)
+![pokemon constraint graph](images/csp-pokemon-solution.png)
 
-_Which pokemon is the most constrained?_ &nbsp; 1, 2, 3, 4, 5
+_Which pokemon is the most constrained?_ &nbsp; 1, 2, 3, __4__, 5
 
 ## Searching for Answers
 
@@ -51,6 +51,23 @@ Find answers to the questions that are consistent with the constraints by constr
 
 _Use __Depth First Search__ only check constraints after assignment and do not perform constraint propagation._
 
+![pokemon dfs and dfs search trees](./images/pokemon-dfs-solution.jpg)
+
+
 _Then try it again with __DFS + Forward Checking__ where you remove incompatible neighboring values after assignment._
 
+![pokemon dfs and dfs+fc search trees](./images/pokemon-dfs+fc-solution.jpg)
+
 _Finally, use the assignments from your search to answer the questions 1 to 5 above._
+
+## Answers
+
+| Pokemon | DFS Answer | DFS + FC Answer |
+|---------|---|---|
+| Which pokemon is the slowest?       | B | B |
+| Which pokemon is the heaviest?      | B | B |
+| Which pokemon is the shortest?      | D | D |
+| Which pokemon is the fastest?       | C | C |
+| Which pokemon is the footprint?     | C | C |
+
+_Note: Here the answers are the same for both methods but this is not guaranteed._
