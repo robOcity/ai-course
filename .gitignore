@@ -103,6 +103,9 @@ ENV/
 # vscode
 .vscode/*.*
 
+# pdf
+*.pdf
+
 export/*
 
 .DS_Store
