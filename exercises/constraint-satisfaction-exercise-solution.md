@@ -51,12 +51,9 @@ Find answers to the questions that are consistent with the constraints by constr
 
 _Use __Depth First Search__ only check constraints after assignment and do not perform constraint propagation._
 
-![pokemon dfs and dfs search trees](./images/pokemon-dfs-solution.jpg)
-
-
 _Then try it again with __DFS + Forward Checking__ where you remove incompatible neighboring values after assignment._
 
-![pokemon dfs and dfs+fc search trees](./images/pokemon-dfs+fc-solution.jpg)
+![pokemon dfs and dfs+fc search trees](./images/csp-pokemon-search-trees.jpg)
 
 _Finally, use the assignments from your search to answer the questions 1 to 5 above._
 
