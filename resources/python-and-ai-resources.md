@@ -20,13 +20,15 @@
 
 * [Python Short Course](https://github.com/robOcity/python-short-course) - Get started quickly with modern Python. These materials are optional and intended to get you up to speed for Python-based courses at Regis University.
 
+* [Sorcratica Python Programming Tutorials](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-) - Excellent introduction to python programming, in short, well-produced videos with a matrix vibe.  A highly recommended site.
+
 * [Real Python](https://realpython.com/) - Accessible and well-written tutorials on a wide variety of relevant Python topics.  More coming every day.  A highly recommended site.
 
 * [Python Tutor](http://pythontutor.com/) - Visualize your Python code at runtime -- an invaluable tool for learning about and debugging issues with Python data structures.  If you are struggling with your code, cut and paste your code into Python Tutor to better understand why it behaves like it is.  Python Tutor is especially valuable in understanding Python data structures.
 
+* [Lambda Functions](https://calmcode.io/lambda/introduction.html) - Example-based introduction to lambda functions.
+
 * [LearnPython.org](https://www.learnpython.org/) - An interactive introduction Python 3 tutorial.  Like [Python Tutor](http://pythontutor.com/) only with explanations and diagrams.
-  
-* [Sorcratica Python Programming Tutorials](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-) - Excellent introduction to python programming, in short, well-produced videos with a matrix vibe.  A highly recommended site.
 
 * [Let's learn Python 3 in your PJ's](https://youtu.be/7t_Zjh1pXgY) - Introductory video tutorial on Python 3 for beginners.
 
@@ -35,6 +37,14 @@
 * [Dive into Python 3](http://www.diveintopython3.net/) - Another outstanding free online textbook, only this one is for experienced programmers. Again if you like it consider buying a copy.
 
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/intro/learning/) - A curated list of Python tutorials, each with a short description.
+
+## Anaconda and Conda Resources
+
+* [Anaconda Python for Individuals](https://www.anaconda.com/products/individual) - Downloads and resources for Anaconda Python.  Python for data science ready to go with all the best data science tools pre-installed.  Configure your Python environments with a GUI.  Supports Windows, macOS and Linux and includes the `conda` command line tool.
+
+* [Miniconda](https://docs.conda.io/en/latest/miniconda.html) - The minimimalist version of  Anaconda Python without the GUI.  Build your own environments and select packages using `conda` on the commnand line.
+
+* [Conda User's Guide](https://conda.io/projects/conda/en/latest/user-guide/index.html) - How configure your Python environments using the `conda` the tool that comes with Anaconda Python. 
 
 ## Markdown Text
 
