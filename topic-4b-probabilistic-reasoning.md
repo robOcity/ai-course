@@ -1,4 +1,4 @@
-# Week 6 - Probabilistic Reasoning
+# Topic 4b: Probabilistic Reasoning
 
 1. **Motivation:**  
 
@@ -18,8 +18,6 @@
 
     1. Illustrate how belief nets allow intelligent agents to make better decisions when facing uncertainty.
 
-    2. Estimate probabilities for moves for environments such as Wumpus World.
-
 3. **Readings**
 
     1. Read Chapter 14 - Probabilistic Reasoning (Sections 14.1 through 14.5)
@@ -30,7 +28,7 @@
 
     1. Watch -- [Probabilistic Inference II](https://youtu.be/EC6bf8JCpDQ) - Using causality diagrams to construct belief networks to deal with uncertainty when making decisions.  _Cite: Patrick Winston. 6.034 Artificial Intelligence. Fall 2010. Massachusetts Institute of Technology: MIT OpenCourseWare, [https://ocw.mit.edu](https://ocw.mit.edu). License: Creative Commons BY-NC-SA._
 
-    2. Watch -- [Recitation 9: Bayesian Inference](https://youtu.be/IBHGlFxcAk8) - - Tutorial from 2016 offering of MIT's 6.034 Artificial Intelligence. _cite: Noss, J. (2016, November 30). 6.034 Recitation 9: Bayesian Inference. Retrieved July 28, 2018, from[6.034 Recitation 9: Bayesian Inference](https://www.youtube.com/watch?v=IBHGlFxcAk8&t=3s)_
+    2. Watch -- [Recitation 9: Bayesian Inference](https://youtu.be/IBHGlFxcAk8) - - Tutorial from 2016 offering of MIT's 6.034 Artificial Intelligence. _cite: Noss, J. (2016, November 30). 6.034 Recitation 9: Bayesian Inference. Retrieved July 28, 2018, from [6.034 Recitation 9: Bayesian Inference](https://www.youtube.com/watch?v=IBHGlFxcAk8&t=3s)_
 
 5. **Discussion**
 

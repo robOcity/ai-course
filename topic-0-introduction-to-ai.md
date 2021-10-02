@@ -1,4 +1,4 @@
-# Week 1 - Introducing Artificial Intelligence
+# Topic 0: Introducing Artificial Intelligence
 
 1. **Motivation:**  Sensing and acting to obtain a goal -- rational agents -- will be the framework for our understanding of artificially intelligent systems.  Examining the history and foundations of the field will prepare us for our journey.
 
@@ -30,7 +30,7 @@
 
     1. Video - [Introduction to AI](https://youtu.be/TjZBTDzGeGg)
 
-    1. Cite: Patrick Winston. 6.034 Artificial Intelligence. Fall 2010. Massachusetts Institute of Technology: MIT OpenCourseWare, [https://ocw.mit.edu](https://ocw.mit.edu). License: Creative Commons BY-NC-SA.
+    1. Cite: Patrick Winston. 6.034 Artificial Intelligence. Fall 2010. Massachusetts Institute of Technology: MIT OpenCourseWare, [MITOpenCourseWare](https://ocw.mit.edu). License: Creative Commons BY-NC-SA.
 
 1. **Discussion**
 

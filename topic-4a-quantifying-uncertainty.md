@@ -1,4 +1,4 @@
-# Week 5 - Quantifying Uncertainty
+# Topic 4a: Quantifying Uncertainty
 
 1. **Motivation:** Your favorite band is in town and you have two tickets for tonight's sold out show.  You and your friend are planning to go and want to get something to eat before the show.  Seating is general admission, so you need to arrive with plenty to get a decent seat.  If the concert starts at 8 PM, when do you leave home?  When do you need to arrive at the restaurant and the concert venue?  By the end of this lecture you will be able to create a causality diagram, develop the truth tables to support it, and understand it's basis in probability theory.
 
@@ -12,8 +12,6 @@
 
     1. Illustrate how belief nets allow intelligent agents to make better decisions when facing uncertainty.
 
-    1. Estimate probabilities for moves in wumpus world.
-
 1. **Readings**
 
     1. Read Chapter 13 - Quantifying Uncertainty (Sections 13.1 to 13.5)
@@ -24,7 +22,7 @@
 
     1. Watch -- [Probabilistic Inference I](https://youtu.be/A6Ud6oUCRak) - Developing the foundations for belief networks with probability theory.
 
-    1. Cite: Patrick Winston. 6.034 Artificial Intelligence. Fall 2010. Massachusetts Institute of Technology: MIT OpenCourseWare, [https://ocw.mit.edu](https://ocw.mit.edu). License: Creative Commons BY-NC-SA.
+    1. Cite: Patrick Winston. 6.034 Artificial Intelligence. Fall 2010. Massachusetts Institute of Technology: MIT OpenCourseWare, [MITOpenCourseWare](https://ocw.mit.edu). License: Creative Commons BY-NC-SA.
 
 1. **Discussion**
 

@@ -1,4 +1,4 @@
-# Week 3 - Playing Adversarial Games
+# Topic 2: Playing Adversarial Games
 
 1. **Motivation:**  How can we apply the concepts of search to playing games against an opponent?  Building a search tree to represent the state of play, we will learn how to apply the minimax search algorithm to find optimal moves.  By pruning the search tree, alpha-beta search is both optimal and efficient.  Estimating the probability of different actions allows these algorithms to be extended to games of chance.
 
@@ -24,11 +24,11 @@
 
     1. Video - [Search: Games, Minimax, and Alpha-Beta](https://youtu.be/STjW3eH0Cik)
 
-    1. Cite: Patrick Winston. 6.034 Artificial Intelligence. Fall 2010. Massachusetts Institute of Technology: MIT OpenCourseWare, [https://ocw.mit.edu](https://ocw.mit.edu). License: Creative Commons BY-NC-SA.
+    1. Cite: Patrick Winston. 6.034 Artificial Intelligence. Fall 2010. Massachusetts Institute of Technology: MIT OpenCourseWare, [MITOpenCourseWare](https://ocw.mit.edu). License: Creative Commons BY-NC-SA.
 
     1. Demonstration - [Demo: minimax game search algorithm with alpha-beta pruning](http://homepage.ufp.pt/jtorres/ensino/ia/alfabeta.html)
 
-    1. Cite - Torres, J. M. (n.d.). Demo: Minimax game search algorithm with alpha-beta pruning (using html5, canvas, javascript, css). Retrieved from http://homepage.ufp.pt/jtorres/ensino/ia/alfabeta.html.
+    1. Cite - Torres, J. M. (n.d.). Demo: Minimax game search algorithm with alpha-beta pruning (using html5, canvas, javascript, css). Retrieved from [Demo: minimax game search algorithm with alpha-beta pruning](http://homepage.ufp.pt/jtorres/ensino/ia/alfabeta.html).
 
 1. **Discussion**
 

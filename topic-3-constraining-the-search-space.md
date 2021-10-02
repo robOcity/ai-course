@@ -1,4 +1,4 @@
-# Week 4 - Constraining the Search Space
+# Topic 3: Constraining the Search Space
 
 1. **Motivation**: Applying constraints to reduce the size of the search space resulting in dramatic improvements in search algorithm performance.
 
@@ -32,7 +32,7 @@
 
     1. [Solving Constraint Satisfaction Problems](https://youtu.be/dXTNQmqFo1k)
 
-    1. Cite: Patrick Winston. 6.034 Artificial Intelligence. Fall 2010. Massachusetts Institute of Technology: MIT OpenCourseWare, [https://ocw.mit.edu](https://ocw.mit.edu). License: Creative Commons BY-NC-SA.
+    1. Cite: Patrick Winston. 6.034 Artificial Intelligence. Fall 2010. Massachusetts Institute of Technology: MIT OpenCourseWare, [MITOpenCourseWare](https://ocw.mit.edu). License: Creative Commons BY-NC-SA.
 
 1. **Discussion**
 

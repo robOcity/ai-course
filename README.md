@@ -6,36 +6,30 @@ Hello and welcome to Artificial Intelligence.  By posing the question "Can machi
 
 ## Course Objectives
 
-1. Discuss artificially intelligent systems using intelligent agents as context (Comprehension) --> Week 1
+1. Introduce artificially intelligent systems using intelligent agents as context (Comprehension) in Topic 0.
 
-1. Assess the performance of artificially intelligent systems (Evaluation) --> Weeks 1 and 6
+1. Assess the performance of artificially intelligent systems (Evaluation) in Topics 1 and 4b.
 
-1. Examine the ethical implications of a artificially intelligent systems (Analysis) --> Addressed in discussion questions during weeks 1, 5 and 8
+1. Examine the ethical implications of a artificially intelligent systems (Analysis) in Addressed in discussion questions for Topic 1.
 
-1. Apply search algorithms to solve problems (Application) --> Week 2
+1. Apply search algorithms to solve problems (Application) in Topic 2.
 
-2. Illustrate how utility functions, heuristics and pruning improve search efficiency by shrinking the search space (Application) --> Weeks 3 and 4
+1. Illustrate how utility functions, heuristics and pruning improve search efficiency by shrinking the search space (Application) in Topics 2 and 3.
 
-1. Construct knowledge representations using logic (Synthesis) --> Week 5
+1. Utilize alpha-beta pruning to choose better moves given limited time (Synthesis) in Topic 2.
 
-1. Solve problems (be more specific) with uncertainty information using Bayesian methods (Application) --> Week 6
-
-1. Employ machine learning algorithms in artificially intelligent systems (Application) --> Week 7 and 8
+1. Solve problems (be more specific) by applying search, adversarial search, constraint satisfaction and Bayesian network algorithms (Application) in Topics 1, 2, 3 and 4.
 
 ## Course Outline
 
-1. [Week 1 - Introducing Artificial Intelligence](./week-1-introducing-ai.md) - By sensing and acting to obtain a goal -- rational agents -- offer a firm foundation for understanding artificially intelligent systems.  Prepare for this journey by examining the field's history and core ideas.
+* [Topic 0: Introducing Artificial Intelligence](./topic-0-introduction-to-ai.md) - By sensing and acting to obtain a goal -- rational agents -- offer a firm foundation for understanding artificially intelligent systems.  Prepare for this journey by examining the field's history and core ideas.
 
-1. [Week 2 - Searching for Solutions](./week-2-search.md) - Searching for solutions using algorithms with differing strategies, understanding their cost, and learning how to measure their performance.
+* [Topic 1: Searching for Solutions](./topic-1-search.md) - Searching for solutions using algorithms with differing strategies, understanding their cost, and learning how to measure their performance.
 
-1. [Week 3 - Playing Adversarial Games](./week-3-playing-adversarial-games.md) - Learning to apply search algorithms to popular games and discovering that pruning allows for more complex games to be played.
+* [Topic 2: Playing Adversarial Games](./topic-2-playing-adversarial-games.md) - Learning to apply search algorithms to popular games and discovering that pruning allows for more complex games to be played.
 
-1. [Week 4 - Constraining the Search Space](./week-4-constraining-the-search-space.md) - Applying constraints to reduce the size of the search space resulting in dramatic improvements in search algorithm performance.
+* [Topic 3: Constraining the Search Space](./topic-3-constraining-the-search-space.md) - Applying constraints to reduce the size of the search space resulting in dramatic improvements in search algorithm performance.
 
-1. [Week 5 - Logical Agents in Wumpus World](./week-5-logical-agents-in-wumpus-world.md) - Introducing first-order logic and applying it to Wumpus World - a simple grid-based hunting game.
+* [Topic 4a: Quantifying uncertainty](./topic-4a-quantifying-uncertainty.md) - Using probability theory to quantify uncertainty.
 
-1. [Week 6 - Acting in an Uncertain World](./week-6-acting-in-an-uncertain-world.md) - Employing decision theory to eliminate unlikely outcomes from consideration.
-
-1. [Week 7 - Applying Machine Learning I](./week-7-applying-machine-learning-1.md) - Applying machine learning to improve the performance of artificially intelligent systems.
-
-1. [Week 8 - Applying Machine Learning II](./week-8-applying-machine-learning-2.md) - Continuing examination of machine learning in artificially intelligent systems.
+* [Topic 4b: Probabilistic Reasoning](./topic-4b-probabilistic-reasoning.md) - Using Bayesian networks to reason in uncertainty and partially observable worlds.
