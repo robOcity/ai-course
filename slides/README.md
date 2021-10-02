@@ -2,9 +2,9 @@
 
 ## Generating slidedecks
 
-Reveal.js is a Javascript framework for creating slide presentations in HTML.  Visit [Reveal.js - The HTML Presentation Framework] for an impressive demonstration of its capabilities.  
+Reveal.js is a Javascript framework for creating slide presentations in HTML.  Visit [Reveal.js - The HTML Presentation Framework](https://revealjs.com/) for an impressive demonstration of its capabilities.  
 
-Get started by creating a you will need to create a directory for your slide shows.  To use it you will need to download a copy from the [Reveal.js github page](https://github.com/hakimel/reveal.js/), and of course `git clone https://github.com/hakimel/reveal.js/` works too.  Your new reveal.js folder should be a subdirectory of you slideshow folder.  It is easy to do, just follow these steps at the command line.  __I suggest NOT making reveal.js submodule since it complicates your git workflows.  The slide show folder does not need to be in the repository.  If it isn't, you can copy your slidedeck/notebook in and out of it, and check them in when you are done making changes.  Notebooks are hard to track in git anyway, so this approach works better than it may sound.__
+Get started by creating a you will need to create a directory for your slide shows.  To use it you will need to download a copy from the [Reveal.js github page](https://github.com/hakimel/reveal.js/), and of course `git clone https://github.com/hakimel/reveal.js/` works too.  Your new reveal.js folder should be a subdirectory of you slideshow folder.  It is easy to do, just follow these steps at the command line.  __I suggest NOT making reveal.js submodule since it complicates your git workflows.  Your working directory for slidedecks does not need to be in the repository.  Simply copy your slidedecks over to work on them, then copy them back and check them in when you are done making changes.  Notebooks are hard to track in git anyway, so this approach works better than it may sound.__
 
 ```bash
 mkdir my_slideshows
